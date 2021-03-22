@@ -1,0 +1,1001 @@
+case,patient,age,gender,nationality,status,infection source,country,symptomatic to confirmation,days to recover,symptomatic at,confirmed at,recovered at,displayed symptoms
+0,35 Year Old Female Singaporean,35,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+1,66 year old Wuhan Man,66,Male,Chinese,Recovered,Imported case,China,3,26,"21st, Jan 2020","23rd, Jan 2020","19th, Feb 2020",true
+2,53 year-old female Chinese national from Wuhan,53,Female,Chinese,Recovered,Imported case,China,3,14,"21st, Jan 2020","24th, Jan 2020","7th, Feb 2020",true
+3,37 year-old male Chinese national from Wuhan,37,Male,Chinese,Recovered,Imported case,China,1,27,"23rd, Jan 2020","24th, Jan 2020","21st, Feb 2020",true
+4,36 year-old male Chinese national from Wuhan,36,Male,Chinese,Recovered,Imported case,China,3,17,"23rd, Jan 2020","25th, Jan 2020","12th, Feb 2020",true
+5,56 year-old female Chinese national from Wuhan,56,Female,Chinese,Recovered,Imported case,China,4,21,"24th, Jan 2020","27th, Jan 2020","18th, Feb 2020",true
+6,56 year-old male Chinese national from Wuhan,56,Male,Chinese,Recovered,Imported case,China,3,23,"25th, Jan 2020","27th, Jan 2020","20th, Feb 2020",true
+7,35 year-old male Chinese national from Wuhan,35,Male,Chinese,Recovered,Imported case,China,4,7,"24th, Jan 2020","27th, Jan 2020","4th, Feb 2020",true
+8,56 year-old female Chinese national from Wuhan,56,Female,Chinese,Recovered,Imported case,China,5,20,"24th, Jan 2020","28th, Jan 2020","18th, Feb 2020",true
+9,56 year-old male Chinese national from Wuhan,56,Male,Chinese,Recovered,Imported case,China,6,25,"24th, Jan 2020","29th, Jan 2020","23rd, Feb 2020",true
+10,56 year-old male Chinese national from Wuhan,56,Male,Chinese,Recovered,Imported case,China,9,10,"21st, Jan 2020","29th, Jan 2020","9th, Feb 2020",true
+11,31 year-old female Chinese national from Wuhan,31,Female,Chinese,Recovered,Imported case,China,3,11,"27th, Jan 2020","29th, Jan 2020","10th, Feb 2020",true
+12,37 year-old female Chinese national from Wuhan,37,Female,Chinese,Recovered,Imported case,China,4,13,"26th, Jan 2020","29th, Jan 2020","12th, Feb 2020",true
+13,73 year-old female Chinese national from Wuhan,73,Female,Chinese,Recovered,Imported case,China,3,9,"28th, Jan 2020","30th, Jan 2020","9th, Feb 2020",true
+14,31 year-old male Chinese national who is aSingapore Work Pass holder,31,Male,Singaporean,Recovered,Imported case,China,3,17,"28th, Jan 2020","30th, Jan 2020","17th, Feb 2020",true
+15,47 year-old female Singapore Citizen,47,Female,Singaporean,Recovered,Imported case,China,1,16,"30th, Jan 2020","30th, Jan 2020","16th, Feb 2020",true
+16,38 year-old male Chinese national,38,Male,Chinese,Recovered,Imported case,China,8,20,"23rd, Jan 2020","30th, Jan 2020","20th, Feb 2020",true
+17,47 year-old female Singapore Citizen,47,Female,Singaporean,Recovered,Imported case,China,1,10,"30th, Jan 2020","31st, Jan 2020","11th, Feb 2020",true
+18,31 year-old female Chinese national,31,Female,Chinese,Recovered,Imported case,China,3,25,"30th, Jan 2020","1st, Feb 2020","27th, Feb 2020",true
+19,28 year-old female Singapore resident,28,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,18,"29th, Jan 2020","3rd, Feb 2020","22nd, Feb 2020",true
+20,48 year-old female Singapore resident,48,Female,Singaporean,Recovered,Local transmission,Unclear origin,10,25,"25th, Jan 2020","4th, Feb 2020","29th, Feb 2020",true
+21,44 year-old female Indonesian national,44,Female,Indonesian,Recovered,Local transmission,Unclear origin,2,13,"2nd, Feb 2020","4th, Feb 2020","18th, Feb 2020",true
+22,41 year-old male Singapore Citizen,41,Male,Singaporean,Recovered,Imported case,China,-,6,-,"3rd, Feb 2020","9th, Feb 2020",false
+23,17 year-old male Singapore Citizen,17,Male,Singaporean,Recovered,Imported case,China,-,18,-,"3rd, Feb 2020","21st, Feb 2020",false
+24,32 year-old female Singapore Citizen,32,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,11,"30th, Jan 2020","3rd, Feb 2020","15th, Feb 2020",true
+25,40 year-old male Singapore Citizen,40,Male,Singaporean,Recovered,Local transmission,Unclear origin,12,7,"24th, Jan 2020","4th, Feb 2020","12th, Feb 2020",true
+26,42 year-old female Chinese national,42,Female,Chinese,Recovered,Imported case,China,8,4,"28th, Jan 2020","4th, Feb 2020","9th, Feb 2020",true
+27,45 year-old male Singapore Citizen,45,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,15,"1st, Feb 2020","5th, Feb 2020","21st, Feb 2020",true
+28,6 month-old male Singapore Citizen,1,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,16,-,"5th, Feb 2020","22nd, Feb 2020",true
+29,41 year-old male Singapore Citizen,41,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,6,"28th, Jan 2020","5th, Feb 2020","12th, Feb 2020",true
+30,27 year-old male Singapore Citizen,27,Male,Singaporean,Recovered,Local transmission,Unclear origin,17,7,"21st, Jan 2020","6th, Feb 2020","14th, Feb 2020",true
+31,53 year-old male Singapore Citizen,53,Male,Singaporean,Recovered,Local transmission,Unclear origin,15,10,"23rd, Jan 2020","6th, Feb 2020","17th, Feb 2020",true
+32,42 year-old female Singapore Citizen,42,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,12,"2nd, Feb 2020","6th, Feb 2020","19th, Feb 2020",true
+33,39 year-old female Singapore Citizen,39,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,12,"30th, Jan 2020","6th, Feb 2020","19th, Feb 2020",true
+34,40-year-old female Singapore Citizen,40,Female,Singaporean,Recovered,Local transmission,Unclear origin,12,4,"27th, Jan 2020","7th, Feb 2020","12th, Feb 2020",true
+35,64-year-old male Singapore Citizen,64,Male,Singaporean,In hospital,Local transmission,Unclear origin,9,-,"30th, Jan 2020","7th, Feb 2020",-,true
+36,38-year-old female Singapore Permanent Resident,38,Female,Singaporean,Recovered,Local transmission,Unclear origin,15,3,"24th, Jan 2020","7th, Feb 2020","11th, Feb 2020",true
+37,53-year-old male Singapore citizen,53,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,23,"30th, Jan 2020","7th, Feb 2020","2nd, Mar 2020",true
+38,52-year-old female Singapore citizen,52,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,10,"3rd, Feb 2020","8th, Feb 2020","18th, Feb 2020",true
+39,51-year-old male Singapore citizen,51,Male,Singaporean,Recovered,Local transmission,Unclear origin,10,8,"29th, Jan 2020","8th, Feb 2020","16th, Feb 2020",true
+40,36-year-old male Singapore citizen,36,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,4,"30th, Jan 2020","8th, Feb 2020","12th, Feb 2020",true
+41,71 year-old male Singapore citizen,71,Male,Singaporean,In hospital,Local transmission,Unclear origin,8,-,"1st, Feb 2020","8th, Feb 2020",-,true
+42,39 year-old male Bangladesh national who is aSingapore Work Pass holder,39,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,8,-,"1st, Feb 2020","8th, Feb 2020",-,true
+43,54 year-old male Singapore Citizen,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,27,"30th, Jan 2020","8th, Feb 2020","7th, Mar 2020",true
+44,37 year-old male Singapore Citizen,37,Male,Singaporean,Recovered,Local transmission,Unclear origin,10,9,"31st, Jan 2020","9th, Feb 2020","19th, Feb 2020",true
+45,2 year-old female Singapore Citizen,2,Female,Singaporean,Recovered,Imported case,China,-,4,-,"10th, Feb 2020","14th, Feb 2020",false
+46,35 year-old male Singapore PR,35,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,14,"5th, Feb 2020","10th, Feb 2020","24th, Feb 2020",true
+47,39 year-old Bangladesh national who is a SingaporeWork Pass holder,39,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,4,26,"6th, Feb 2020","10th, Feb 2020","7th, Mar 2020",true
+48,34 year-old male Singapore Citizen,34,Male,Singaporean,Recovered,Local transmission,Unclear origin,11,5,"1st, Feb 2020","11th, Feb 2020","17th, Feb 2020",true
+49,46 year-old male Singapore Citizen,46,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,14,"3rd, Feb 2020","11th, Feb 2020","26th, Feb 2020",true
+50,62 year-old male Singapore Citizen,62,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,9,"7th, Feb 2020","12th, Feb 2020","21st, Feb 2020",true
+51,48 year-old male Singapore Citizen,48,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,8,"4th, Feb 2020","12th, Feb 2020","21st, Feb 2020",true
+52,37 year-old male Bangladesh national,37,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,6,15,"7th, Feb 2020","12th, Feb 2020","28th, Feb 2020",true
+53,54 year-old male Singapore Citizen,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,6,30,"7th, Feb 2020","12th, Feb 2020","14th, Mar 2020",true
+54,55 year-old female Singapore Citizen,55,Female,Singaporean,Recovered,Local transmission,Unclear origin,3,17,"10th, Feb 2020","13th, Feb 2020","1st, Mar 2020",true
+55,30 year-old male Singapore Citizen,30,Male,Singaporean,Recovered,Local transmission,Unclear origin,14,6,"30th, Jan 2020","13th, Feb 2020","19th, Feb 2020",true
+56,30 year-old male Bangladesh national,30,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,1,13,"12th, Feb 2020","13th, Feb 2020","26th, Feb 2020",true
+57,26 year-old male Singapore Citizen,26,Male,Singaporean,Recovered,Local transmission,Unclear origin,2,8,"11th, Feb 2020","13th, Feb 2020","21st, Feb 2020",true
+58,55 year-old male Singapore Citizen,55,Male,Singaporean,Recovered,Local transmission,Unclear origin,3,12,"10th, Feb 2020","13th, Feb 2020","25th, Feb 2020",true
+59,61 year-old male Singapore Citizen,61,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,12,"7th, Feb 2020","13th, Feb 2020","26th, Feb 2020",true
+60,51 year-old female Singapore Citizen,51,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,16,"8th, Feb 2020","13th, Feb 2020","1st, Mar 2020",true
+61,57 year-old male Singapore Citizen,57,Male,Singaporean,Recovered,Local transmission,Unclear origin,8,19,"6th, Feb 2020","13th, Feb 2020","4th, Mar 2020",true
+62,44 year-old female Singapore Citizen,44,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,11,"9th, Feb 2020","13th, Feb 2020","25th, Feb 2020",true
+63,54 year-old female Singapore Citizen,54,Female,Singaporean,Recovered,Local transmission,Unclear origin,4,7,"10th, Feb 2020","14th, Feb 2020","21st, Feb 2020",true
+64,50 year-old male Singapore Citizen,50,Male,Singaporean,Recovered,Local transmission,Unclear origin,11,9,"3rd, Feb 2020","14th, Feb 2020","23rd, Feb 2020",true
+65,61 year-old female Singapore Citizen,61,Female,Singaporean,Recovered,Local transmission,Unclear origin,2,3,"12th, Feb 2020","14th, Feb 2020","17th, Feb 2020",true
+66,28 year-old male Singapore Citizen,28,Male,Singaporean,Recovered,Local transmission,Unclear origin,16,6,"29th, Jan 2020","14th, Feb 2020","20th, Feb 2020",true
+67,56 year-old female Singapore Citizen,56,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,17,"9th, Feb 2020","14th, Feb 2020","2nd, Mar 2020",true
+68,79 year-old female Singapore Citizen,79,Female,Singaporean,Recovered,Local transmission,Unclear origin,16,14,"30th, Jan 2020","14th, Feb 2020","29th, Feb 2020",true
+69,26 year-old Bangladesh national who is a SingaporeWork Pass holder,26,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,1,16,"14th, Feb 2020","15th, Feb 2020","2nd, Mar 2020",true
+70,27 year-old Singapore Citizen,27,Female,Singaporean,Recovered,Local transmission,Unclear origin,12,6,"3rd, Feb 2020","15th, Feb 2020","21st, Feb 2020",true
+71,25 year-old male Singapore Citizen,25,Male,Singaporean,Recovered,Local transmission,Unclear origin,14,19,"1st, Feb 2020","15th, Feb 2020","5th, Mar 2020",true
+72,40 year-old male Chinese national who is aSingapore Work Pass holder,40,Male,Chinese,Recovered,Local transmission,Unclear origin,5,12,"10th, Feb 2020","15th, Feb 2020","27th, Feb 2020",true
+73,43 year-old male Singapore Citizen,43,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,10,"9th, Feb 2020","15th, Feb 2020","26th, Feb 2020",true
+74,29 year-old male Singapore Citizen,29,Male,Singaporean,Recovered,Local transmission,Unclear origin,4,20,"12th, Feb 2020","15th, Feb 2020","7th, Mar 2020",true
+75,71 year-old female Singapore Citizen,71,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,13,-,"16th, Feb 2020","29th, Feb 2020",true
+76,1 year-old male Singapore Citizen,1,Male,Singaporean,Recovered,Imported case,China,-,1,-,"16th, Feb 2020","18th, Feb 2020",false
+77,35 year-old male Singapore Citizen,35,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,8,"10th, Feb 2020","17th, Feb 2020","25th, Feb 2020",true
+78,57 year-old female Singapore Citizen,57,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,9,"9th, Feb 2020","17th, Feb 2020","27th, Feb 2020",true
+79,35 year-old female Malaysian national,35,Female,Malaysian,Recovered,Local transmission,Unclear origin,5,10,"12th, Feb 2020","17th, Feb 2020","28th, Feb 2020",true
+80,38 year-old female Singapore Citizen,38,Female,Singaporean,Recovered,Local transmission,Unclear origin,14,9,"4th, Feb 2020","18th, Feb 2020","27th, Feb 2020",true
+81,50 year-old male Singapore Citizen,50,Male,Singaporean,Recovered,Local transmission,Unclear origin,2,7,"16th, Feb 2020","18th, Feb 2020","25th, Feb 2020",true
+82,57 year-old female Singapore Citizen,57,Female,Singaporean,Recovered,Local transmission,Unclear origin,10,35,"9th, Feb 2020","18th, Feb 2020","25th, Mar 2020",true
+83,54 year-old male Singapore Citizen,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,22,2,"28th, Jan 2020","19th, Feb 2020","21st, Feb 2020",true
+84,35 year-old female Singapore Citizen,35,Female,Singaporean,Recovered,Local transmission,Unclear origin,15,2,"4th, Feb 2020","19th, Feb 2020","21st, Feb 2020",true
+85,36 year-old male Chinese national who is aSingapore Work Pass holder,36,Male,Chinese,Recovered,Local transmission,Unclear origin,6,16,"14th, Feb 2020","20th, Feb 2020","7th, Mar 2020",true
+86,24 year-old male Singapore Citizen,24,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,15,"14th, Feb 2020","20th, Feb 2020","7th, Mar 2020",true
+87,32 year-old male Singapore Citizen,32,Male,Singaporean,Recovered,Imported case,China,-,2,-,"21st, Feb 2020","24th, Feb 2020",false
+88,30 year-old female Singapore Citizen,30,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,9,"16th, Feb 2020","21st, Feb 2020","2nd, Mar 2020",true
+89,41 year-old male Singapore Permanent Resident,41,Male,Singaporean,Recovered,Local transmission,Unclear origin,19,6,"3rd, Feb 2020","22nd, Feb 2020","28th, Feb 2020",true
+90,75 year-old female Singapore Citizen,75,Female,Singaporean,Deceased,Local transmission,Unclear origin,15,-,"9th, Feb 2020","23rd, Feb 2020",-,true
+91,58 year-old female Singapore Citizen,58,Female,Singaporean,Recovered,Local transmission,Unclear origin,31,2,"23rd, Jan 2020","22nd, Feb 2020","25th, Feb 2020",true
+92,47 year-old male Singapore Citizen,47,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,14,"17th, Feb 2020","26th, Feb 2020","11th, Mar 2020",true
+93,47 year-old male Singapore Citizen,38,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,10,"17th, Feb 2020","26th, Feb 2020","7th, Mar 2020",true
+94,64 year-old female Singapore Citizen,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,16,26,"11th, Feb 2020","26th, Feb 2020","24th, Mar 2020",true
+95,44 year-old male Singapore Citizen,44,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,16,"22nd, Feb 2020","27th, Feb 2020","14th, Mar 2020",true
+96,12 year-old male Singapore Citizen,12,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,8,"21st, Feb 2020","27th, Feb 2020","7th, Mar 2020",true
+97,44 year-old female Singapore Permanent Resident,44,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,20,"20th, Feb 2020","27th, Feb 2020","19th, Mar 2020",true
+98,24 year-old male Singapore Permanent Resident,24,Male,Singaporean,Recovered,Local transmission,Unclear origin,1,6,"27th, Feb 2020","28th, Feb 2020","5th, Mar 2020",true
+99,27 year-old male Singapore Citizen,27,Male,Singaporean,Recovered,Local transmission,Unclear origin,8,16,"21st, Feb 2020","28th, Feb 2020","16th, Mar 2020",true
+100,20 year-old male Malaysian national,20,Male,Malaysian,Recovered,Local transmission,Unclear origin,2,16,"27th, Feb 2020","28th, Feb 2020","16th, Mar 2020",true
+101,61 year-old male Singapore Citizen,61,Male,Singaporean,Recovered,Local transmission,Unclear origin,4,18,"25th, Feb 2020","29th, Feb 2020","18th, Mar 2020",true
+102,41 year-old female Filipino national,41,Female,Filipino,Recovered,Local transmission,Unclear origin,4,14,"25th, Feb 2020","29th, Feb 2020","14th, Mar 2020",true
+103,37 year-old female Singapore Citizen,37,Female,Singaporean,Recovered,Local transmission,Unclear origin,10,13,"20th, Feb 2020","1st, Mar 2020","14th, Mar 2020",true
+104,25 year-old female Myanmar national,25,Female,Myanmarian,Recovered,Local transmission,Unclear origin,7,18,"23rd, Feb 2020","1st, Mar 2020","19th, Mar 2020",true
+105,49 year-old male Singapore Citizen,49,Male,Singaporean,Recovered,Local transmission,Unclear origin,4,18,"26th, Feb 2020","1st, Mar 2020","19th, Mar 2020",true
+106,54 year-old male Japanese national who is aSingapore Work Pass holder,54,Male,Japanese,Recovered,Local transmission,Unclear origin,7,10,"23rd, Feb 2020","1st, Mar 2020","11th, Mar 2020",true
+107,68 year-old female Singapore Citizen,68,Female,Singaporean,Recovered,Local transmission,Unclear origin,15,4,"16th, Feb 2020","1st, Mar 2020","6th, Mar 2020",true
+108,34 year-old female Filipino national,34,Female,Filipino,Recovered,Local transmission,Unclear origin,6,18,"25th, Feb 2020","2nd, Mar 2020","20th, Mar 2020",true
+109,70 year-old Singapore Citizen,70,Male,Singaporean,Deceased,Local transmission,Unclear origin,7,-,"25th, Feb 2020","2nd, Mar 2020",-,true
+110,33 year-old Singapore Citizen,33,Male,Singaporean,Recovered,Local transmission,Unclear origin,10,4,"22nd, Feb 2020","2nd, Mar 2020","7th, Mar 2020",true
+111,43 year-old male Singapore Permanent Resident,43,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,9,"24th, Feb 2020","3rd, Mar 2020","13th, Mar 2020",true
+112,62 year-old female Singapore Citizen,62,Female,Singaporean,Recovered,Local transmission,Unclear origin,12,5,"21st, Feb 2020","4th, Mar 2020","9th, Mar 2020",true
+113,42 year-old male French national who is aSingapore Work Pass holder,42,Male,French,In hospital,Imported case,Unclear origin,2,-,"3rd, Mar 2020","4th, Mar 2020",-,true
+114,62 year-old male Singapore Citizen,62,Male,Singaporean,Recovered,Local transmission,Unclear origin,6,16,"28th, Feb 2020","4th, Mar 2020","21st, Mar 2020",true
+115,62 year-old female Singapore Citizen,62,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,18,-,"5th, Mar 2020","23rd, Mar 2020",true
+116,50 year-old female Singapore Citizen,50,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,16,"29th, Feb 2020","5th, Mar 2020","21st, Mar 2020",true
+117,52 year-old female Singapore Citizen,52,Female,Singaporean,Recovered,Local transmission,Unclear origin,3,23,"2nd, Mar 2020","5th, Mar 2020","28th, Mar 2020",true
+118,33 year-old female Singapore Citizen,33,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,12,"29th, Feb 2020","5th, Mar 2020","18th, Mar 2020",true
+119,55 year-old male Singapore Citizen,55,Male,Singaporean,Recovered,Local transmission,Unclear origin,8,16,"27th, Feb 2020","5th, Mar 2020","22nd, Mar 2020",true
+120,62 year-old female Singapore Citizen,62,Female,Singaporean,In hospital,Local transmission,Unclear origin,4,-,"2nd, Mar 2020","5th, Mar 2020",-,true
+121,54 year-old female Singapore Citizen,54,Female,Singaporean,Recovered,Local transmission,Unclear origin,9,13,"26th, Feb 2020","5th, Mar 2020","19th, Mar 2020",true
+122,64 year-old female Singapore Citizen,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,3,11,"3rd, Mar 2020","5th, Mar 2020","17th, Mar 2020",true
+123,47 year-old male Singapore Citizen,47,Male,Singaporean,Recovered,Imported case,South africa,8,11,"27th, Feb 2020","5th, Mar 2020","17th, Mar 2020",true
+124,37 year-old female Singapore Permanent Resident,37,Female,Singaporean,In hospital,Imported case,Germany,1,-,"5th, Mar 2020","6th, Mar 2020",-,true
+125,65 year-old female Singapore Permanent Resident,65,Female,Singaporean,Recovered,Local transmission,Unclear origin,1,13,"5th, Mar 2020","6th, Mar 2020","19th, Mar 2020",true
+126,77 year-old male Singapore Citizen,77,Male,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"5th, Mar 2020","6th, Mar 2020",-,true
+127,64 year-old female Singapore Citizen,64,Female,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"5th, Mar 2020","5th, Mar 2020",-,true
+128,70 year-old male Singapore Citizen,70,Male,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"5th, Mar 2020","6th, Mar 2020",-,true
+129,68 year-old female Singapore Citizen,68,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"6th, Mar 2020",-,true
+130,66 year-old male Singapore Citizen,66,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"6th, Mar 2020",-,true
+131,66 year-old male Singapore Citizen,66,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,10,"2nd, Mar 2020","6th, Mar 2020","17th, Mar 2020",true
+132,37 year-old female Singapore Permanent Resident,37,Female,Singaporean,Recovered,Imported case,Unclear origin,7,13,"29th, Feb 2020","6th, Mar 2020","20th, Mar 2020",true
+133,62 year-old female Indonesian national,62,Female,Indonesian,Recovered,Local transmission,Unclear origin,7,13,"29th, Feb 2020","6th, Mar 2020","20th, Mar 2020",true
+134,56 year-old female Singapore Citizen,56,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,12,"28th, Feb 2020","6th, Mar 2020","19th, Mar 2020",true
+135,40 year-old male Singapore Citizen,40,Male,Singaporean,Recovered,Local transmission,Unclear origin,10,7,"26th, Feb 2020","6th, Mar 2020","14th, Mar 2020",true
+136,36 year-old male Italian national Singapore WorkPass holder,36,Male,Italian,Recovered,Imported case,Unclear origin,6,12,"1st, Mar 2020","6th, Mar 2020","19th, Mar 2020",true
+137,60 year-old male Singapore Citizen,60,Male,Singaporean,Recovered,Local transmission,Unclear origin,1,14,"5th, Mar 2020","6th, Mar 2020","21st, Mar 2020",true
+138,26 year-old male Singapore Citizen,26,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,2,-,"6th, Mar 2020","9th, Mar 2020",false
+139,71 year-old male Singapore Citizen,71,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,18,"3rd, Mar 2020","7th, Mar 2020","26th, Mar 2020",true
+140,62 year-old female Singapore Citizen,62,Female,Singaporean,Recovered,Local transmission,Unclear origin,9,16,"28th, Feb 2020","7th, Mar 2020","24th, Mar 2020",true
+141,69 year-old male Singapore Citizen,69,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,17,"1st, Mar 2020","7th, Mar 2020","25th, Mar 2020",true
+142,26 year-old male Singapore Citizen,26,Male,Singaporean,In hospital,Local transmission,Unclear origin,3,-,"5th, Mar 2020","7th, Mar 2020",-,true
+143,42 year-old male Singapore Citizen,42,Male,Singaporean,Recovered,Local transmission,Unclear origin,3,12,"5th, Mar 2020","7th, Mar 2020","20th, Mar 2020",true
+144,58 year-old female Singapore Citizen,58,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,13,"3rd, Mar 2020","7th, Mar 2020","21st, Mar 2020",true
+145,67 year-old female Singapore Citizen,67,Female,Singaporean,In hospital,Local transmission,Unclear origin,8,-,"29th, Feb 2020","8th, Mar 2020",-,true
+146,64 year-old female Singapore Citizen,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,4,6,"4th, Mar 2020","8th, Mar 2020","14th, Mar 2020",true
+147,64 year-old male Indonesian Citizen,64,Male,Indonesian,In hospital,Imported case,Unclear origin,5,-,"3rd, Mar 2020","8th, Mar 2020",-,true
+148,67 year-old female Singaporean Citizen,67,Female,Singaporean,Recovered,Local transmission,Unclear origin,13,3,"24th, Feb 2020","8th, Mar 2020","11th, Mar 2020",true
+149,62 year-old male Singaporean Citizen,62,Male,Singaporean,Recovered,Local transmission,Unclear origin,14,8,"23rd, Feb 2020","8th, Mar 2020","16th, Mar 2020",true
+150,53 year-old female Singaporean Permanent Resident,53,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,6,"29th, Feb 2020","8th, Mar 2020","14th, Mar 2020",true
+151,51 year-old male Singapore Citizen,51,Male,Singaporean,Recovered,Local transmission,Unclear origin,33,0,"4th, Feb 2020","8th, Mar 2020","8th, Mar 2020",true
+152,65 year-old male Indonesian national,65,Male,Indonesian,In hospital,Imported case,Unclear origin,9,-,"28th, Feb 2020","8th, Mar 2020",-,true
+153,65 year-old female Singapore Citizen,65,Female,Singaporean,Recovered,Imported case,Unclear origin,5,19,"3rd, Mar 2020","8th, Mar 2020","27th, Mar 2020",true
+154,52 year-old male British national,52,Male,British,Recovered,Imported case,Unclear origin,1,16,"8th, Mar 2020","9th, Mar 2020","25th, Mar 2020",true
+155,47 year-old female Malaysian national who is aSingapore Work Pass holder,47,Female,Malaysian,Recovered,Local transmission,Unclear origin,5,13,"4th, Mar 2020","9th, Mar 2020","22nd, Mar 2020",true
+156,50 year-old female Singapore Permanent Resident,50,Female,Singaporean,In hospital,Local transmission,Unclear origin,2,-,"7th, Mar 2020","9th, Mar 2020",-,true
+157,54 year-old female Singapore Permanent Resident,54,Female,Singaporean,Recovered,Local transmission,Unclear origin,1,17,"8th, Mar 2020","9th, Mar 2020","26th, Mar 2020",true
+158,53 year-old female Singapore Citizen,53,Female,Singaporean,In hospital,Local transmission,Unclear origin,4,-,"5th, Mar 2020","9th, Mar 2020",-,true
+159,59 year-old male Singapore Citizen,59,Male,Singaporean,Recovered,Local transmission,Unclear origin,4,18,"5th, Mar 2020","9th, Mar 2020","27th, Mar 2020",true
+160,5 year-old male Singapore Citizen,5,Male,Singaporean,Recovered,Local transmission,Unclear origin,2,5,"7th, Mar 2020","9th, Mar 2020","14th, Mar 2020",true
+161,73 year-old male Singapore Citizen,73,Male,Singaporean,In hospital,Local transmission,Unclear origin,11,-,"27th, Feb 2020","9th, Mar 2020",-,true
+162,28 year-old male Singapore Citizen,28,Male,Singaporean,In hospital,Local transmission,Unclear origin,2,-,"7th, Mar 2020","9th, Mar 2020",-,true
+163,27 year-old female Singapore Citizen,27,Female,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"8th, Mar 2020","9th, Mar 2020",-,true
+164,57 year-old female Permanent Resident,57,Female,Singaporean,In hospital,Local transmission,Unclear origin,2,-,"8th, Mar 2020","10th, Mar 2020",-,true
+165,30 year-old male Singapore Citizen,30,Male,Singaporean,Recovered,Imported case,Unclear origin,1,18,"9th, Mar 2020","10th, Mar 2020","28th, Mar 2020",true
+166,55 year-old female Singapore Citizen,55,Female,Singaporean,In hospital,Local transmission,Unclear origin,6,-,"4th, Mar 2020","10th, Mar 2020",-,true
+167,35 year-old female Filipino national who is aSingapore Work Pass holder,35,Female,Filipino,In hospital,Imported case,Unclear origin,2,-,"8th, Mar 2020","10th, Mar 2020",-,true
+168,47 year-old male Singapore Citizen,47,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,10,"1st, Mar 2020","10th, Mar 2020","20th, Mar 2020",true
+169,40 year-old male Singapore Citizen,40,Male,Singaporean,In hospital,Imported case,Unclear origin,1,-,"9th, Mar 2020","10th, Mar 2020",-,true
+170,56 year-old female Indonesian national,56,Female,Indonesian,Recovered,Imported case,Unclear origin,4,13,"6th, Mar 2020","10th, Mar 2020","23rd, Mar 2020",true
+171,27 year-old male Singapore Citizen,27,Male,Singaporean,Recovered,Imported case,Unclear origin,2,6,"9th, Mar 2020","11th, Mar 2020","17th, Mar 2020",true
+172,42 year-old female Philippines national who is aSingapore Work Pass Holder,42,Female,Filipino,In hospital,Local transmission,Unclear origin,6,-,"5th, Mar 2020","11th, Mar 2020",-,true
+173,31 year-old male Singapore Citizen,31,Male,Singaporean,Recovered,Imported case,Unclear origin,2,17,"9th, Mar 2020","11th, Mar 2020","28th, Mar 2020",true
+174,67 year-old female Singapore Citizen,67,Female,Singaporean,Recovered,Local transmission,Unclear origin,4,10,"7th, Mar 2020","11th, Mar 2020","21st, Mar 2020",true
+175,44 year-old male Singapore Citizen,44,Male,Singaporean,Recovered,Imported case,Unclear origin,1,22,"10th, Mar 2020","11th, Mar 2020","2nd, Apr 2020",true
+176,37 year-old female British national,37,Female,Singaporean,Recovered,Imported case,Unclear origin,4,24,"7th, Mar 2020","11th, Mar 2020","4th, Apr 2020",true
+177,26 year-old male Singapore Citizen,26,Male,Singaporean,In hospital,Imported case,Unclear origin,2,-,"9th, Mar 2020","11th, Mar 2020",-,true
+178,37 year-old male Filipino national who is aSingapore Work Pass holder,37,Male,Filipino,Recovered,Imported case,Philippines,3,12,"8th, Mar 2020","11th, Mar 2020","23rd, Mar 2020",true
+179,66 year-old female Singapore Citizen,66,Female,Singaporean,Recovered,Local transmission,Unclear origin,13,9,"27th, Feb 2020","11th, Mar 2020","20th, Mar 2020",true
+180,71 year-old male Singapore Citizen,71,Male,Singaporean,In hospital,Imported case,Unclear origin,2,-,"10th, Mar 2020","12th, Mar 2020",-,true
+181,83 year-old male Indonesian national,83,Male,Indonesian,In hospital,Imported case,Unclear origin,4,-,"8th, Mar 2020","12th, Mar 2020",-,true
+182,76 year-old female Indonesian national,76,Female,Indonesian,In hospital,Imported case,Unclear origin,3,-,"9th, Mar 2020","12th, Mar 2020",-,true
+183,29 year-old male Singapore Citizen ,29,Male,Singaporean,Recovered,Imported case,Unclear origin,6,21,"6th, Mar 2020","12th, Mar 2020","2nd, Apr 2020",true
+184,35 year-old male Filipino national who is aSingapore Work Pass holder,35,Male,Filipino,In hospital,Local transmission,Unclear origin,3,-,"9th, Mar 2020","12th, Mar 2020",-,true
+185,34 year-old male Singapore Citizen,34,Male,Singaporean,Recovered,Local transmission,Unclear origin,5,11,"7th, Mar 2020","12th, Mar 2020","23rd, Mar 2020",true
+186,64 year-old male Singapore Citizen,64,Male,Singaporean,Recovered,Local transmission,Unclear origin,7,9,"5th, Mar 2020","12th, Mar 2020","21st, Mar 2020",true
+187,48 year-old male Singapore Citizen,48,Male,Singaporean,In hospital,Imported case,Malaysia,8,-,"4th, Mar 2020","12th, Mar 2020",-,true
+188,53 year-old male Singapore Citizen,53,Male,Singaporean,In hospital,Imported case,Thailand,5,-,"7th, Mar 2020","12th, Mar 2020",-,true
+189,36 year-old male Indian national who is aSingapore Work Pass holder,36,Male,Indian,Recovered,Imported case,India,1,4,"11th, Mar 2020","12th, Mar 2020","16th, Mar 2020",true
+190,53 year-old male Singapore Citizen,53,Male,Singaporean,In hospital,Local transmission,Unclear origin,3,-,"10th, Mar 2020","13th, Mar 2020",-,true
+191,24 year-old female Malaysian national who is aSingapore Work Pass holder,24,Female,Malaysian,In hospital,Imported case,Unclear origin,4,-,"9th, Mar 2020","13th, Mar 2020",-,true
+192,32 year-old male American national,32,Male,American,Recovered,Imported case,United states,0,13,"13th, Mar 2020","13th, Mar 2020","26th, Mar 2020",true
+193,26 year-old male Malaysian national who is aSingapore Work Pass holder,26,Male,Malaysian,In hospital,Imported case,Unclear origin,1,-,"12th, Mar 2020","13th, Mar 2020",-,true
+194,24 year-old female Chinese national who is aSingapore Work Pass holder,24,Female,Chinese,In hospital,Imported case,Unclear origin,5,-,"8th, Mar 2020","13th, Mar 2020",-,true
+195,47 year-old male Singapore Citizen,47,Male,Singaporean,In hospital,Imported case,Unclear origin,7,-,"6th, Mar 2020","13th, Mar 2020",-,true
+196,73-year-old female Singapore Citizen,73,Female,Singaporean,Recovered,Local transmission,Unclear origin,10,4,"3rd, Mar 2020","13th, Mar 2020","17th, Mar 2020",true
+197,30-year-old male Singapore Citizen,30,Male,Singaporean,Recovered,Imported case,Malaysia,9,13,"4th, Mar 2020","13th, Mar 2020","26th, Mar 2020",true
+198,61 year-old female Singapore Citizen,61,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,9,"7th, Mar 2020","13th, Mar 2020","22nd, Mar 2020",true
+199,37-year-old male Singapore Citizen,37,Male,Singaporean,Recovered,Imported case,Malaysia,10,8,"3rd, Mar 2020","13th, Mar 2020","21st, Mar 2020",true
+200,62-year-old female Singapore Citizen,62,Female,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"12th, Mar 2020","13th, Mar 2020",-,true
+201,52 year-old female Singapore Citizen,52,Female,Singaporean,Recovered,Local transmission,Unclear origin,8,5,"5th, Mar 2020","13th, Mar 2020","18th, Mar 2020",true
+202,44 year-old male Singapore Citizen,44,Male,Singaporean,In hospital,Imported case,Malaysia,10,-,"3rd, Mar 2020","13th, Mar 2020",-,true
+203,36 year-old female Singapore Citizen,36,Female,Singaporean,Recovered,Imported case,Indonesia,2,17,"11th, Mar 2020","13th, Mar 2020","30th, Mar 2020",true
+204,32 year-old male American national who is aSingapore Work Pass holder,32,Male,American,In hospital,Imported case,Japan,2,-,"11th, Mar 2020","13th, Mar 2020",-,true
+205,30 year-old female Filipino national,30,Female,Filipino,In hospital,Imported case,Philippines,-,-,-,"14th, Mar 2020",-,true
+206,33 year-old female New Zealand national,33,Female,New zealander,Recovered,Imported case,United states,-,15,-,"14th, Mar 2020","29th, Mar 2020",true
+207,40 year-old female Singapore Citizen,40,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"14th, Mar 2020",-,true
+208,26 year-old female Singapore Citizen,26,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"14th, Mar 2020",-,true
+209,32 year-old female Singapore Citizen,32,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"14th, Mar 2020",-,true
+210,56 year-old male German national,56,Male,German,Recovered,Imported case,Unclear origin,1,16,"13th, Mar 2020","14th, Mar 2020","30th, Mar 2020",true
+211,35 year-old female Filipino national,35,Female,Filipino,Recovered,Local transmission,Unclear origin,-,9,-,"14th, Mar 2020","23rd, Mar 2020",true
+212,64 year-old male Indonesian national,64,Male,Indonesian,Deceased,Imported case,Indonesia,5,-,"9th, Mar 2020","14th, Mar 2020",-,true
+213,48 year-old male Singapore Citizen,48,Male,Singaporean,Recovered,Imported case,Indonesia,6,14,"8th, Mar 2020","14th, Mar 2020","28th, Mar 2020",true
+214,29 year-old male Singapore Citizen,29,Male,Singaporean,Recovered,Local transmission,Unclear origin,9,20,"5th, Mar 2020","14th, Mar 2020","3rd, Apr 2020",true
+215,65 year-old Singapore Citizen,65,Male,Singaporean,In hospital,Imported case,Thailand,1,-,"13th, Mar 2020","14th, Mar 2020",-,true
+216,30 year-old Singapore Citizen,30,Male,Singaporean,Recovered,Imported case,Unclear origin,5,13,"9th, Mar 2020","14th, Mar 2020","27th, Mar 2020",true
+217,22 year-old Spanish National,22,Male,Spanish,Recovered,Imported case,Spain,1,14,"13th, Mar 2020","14th, Mar 2020","28th, Mar 2020",true
+218,55 year-old female Singapore Citizen,55,Female,Singaporean,Recovered,Local transmission,Unclear origin,12,6,"2nd, Mar 2020","14th, Mar 2020","20th, Mar 2020",true
+219,30 year-old male Singapore Citizen,30,Male,Singaporean,Recovered,Local transmission,Unclear origin,2,12,"13th, Mar 2020","15th, Mar 2020","27th, Mar 2020",true
+220,53 year-old male Singapore Permanent Citizen,53,Male,Singaporean,In hospital,Imported case,France,3,-,"12th, Mar 2020","15th, Mar 2020",-,true
+221,28 year-old female Filipino national who is aSingapore Work Pass holder,28,Female,Filipino,In hospital,Local transmission,Unclear origin,4,-,"11th, Mar 2020","15th, Mar 2020",-,true
+222,41 year-old male French national who is aSingapore Work Pass holder,41,Male,French,Recovered,Imported case,Unclear origin,2,16,"13th, Mar 2020","15th, Mar 2020","31st, Mar 2020",true
+223,60 year-old male Singapore Citizen,60,Male,Singaporean,Recovered,Imported case,Unclear origin,2,11,"13th, Mar 2020","15th, Mar 2020","26th, Mar 2020",true
+224,50 year-old male Singapore Citizen,50,Male,Singaporean,In hospital,Local transmission,Unclear origin,2,-,"13th, Mar 2020","15th, Mar 2020",-,true
+225,63 year-old male Singapore Citizen,63,Male,Singaporean,In hospital,Imported case,Indonesia,6,-,"9th, Mar 2020","15th, Mar 2020",-,true
+226,49 year-old male Dutch national,49,Male,Dutch,In hospital,Imported case,Netherlands,3,-,"12th, Mar 2020","15th, Mar 2020",-,true
+227,53 year-old male Singapore Citizen,53,Male,Singaporean,In hospital,Imported case,France,4,-,"11th, Mar 2020","15th, Mar 2020",-,true
+228,67 year-old male Singapore Citizen,67,Male,Singaporean,Recovered,Local transmission,Unclear origin,12,15,"3rd, Mar 2020","15th, Mar 2020","30th, Mar 2020",true
+229,26 year-old female Singapore Permanent Resident,26,Female,Singaporean,In hospital,Imported case,Spain,0,-,"15th, Mar 2020","15th, Mar 2020",-,true
+230,38 year-old female Singapore Citizen,38,Female,Singaporean,In hospital,Imported case,Unclear origin,1,-,"14th, Mar 2020","15th, Mar 2020",-,true
+231,78 year-old male Australian National,78,Male,Australian,Recovered,Imported case,United states,10,19,"4th, Mar 2020","14th, Mar 2020","2nd, Apr 2020",true
+232,65 year-old female Australian National,65,Female,Australian,Recovered,Imported case,United states,13,11,"2nd, Mar 2020","15th, Mar 2020","26th, Mar 2020",true
+233,61 year-old male British national who is aSingapore Long Term Pass holder,61,Male,British,In hospital,Imported case,United kingdom,1,-,"15th, Mar 2020","16th, Mar 2020",-,true
+234,86 year-old male Singapore Citizen,86,Male,Singaporean,Recovered,Local transmission,Unclear origin,17,11,"28th, Feb 2020","16th, Mar 2020","27th, Mar 2020",true
+235,31 year-old female Singapore Citizen,31,Female,Singaporean,Recovered,Local transmission,Unclear origin,5,7,"11th, Mar 2020","16th, Mar 2020","23rd, Mar 2020",true
+236,30 year-old female Singapore Citizen,30,Female,Singaporean,Recovered,Local transmission,Unclear origin,6,12,"10th, Mar 2020","16th, Mar 2020","28th, Mar 2020",true
+237,36 year-old female Indonesian national who is aSingapore Work Pass holder,36,Female,Indonesian,Recovered,Local transmission,Unclear origin,4,10,"12th, Mar 2020","16th, Mar 2020","26th, Mar 2020",true
+238,83 year-old female Belgium National,83,Female,Belgian,In hospital,Imported case,Belgium,2,-,"14th, Mar 2020","16th, Mar 2020",-,true
+239,28 year-old male British national who is aSingapore Work Pass holder,28,Male,Singaporean,Recovered,Imported case,France,2,14,"14th, Mar 2020","16th, Mar 2020","30th, Mar 2020",true
+240,27 year-old male Singapore Permanent Resident,27,Male,Singaporean,In hospital,Imported case,Spain,2,-,"14th, Mar 2020","16th, Mar 2020",-,true
+241,28 year-old male British national who is aSingapore Work Pass holder,28,Male,British,Recovered,Imported case,France,5,12,"11th, Mar 2020","16th, Mar 2020","28th, Mar 2020",true
+242,64 year-old female Singapore Citizen,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,2,15,"14th, Mar 2020","16th, Mar 2020","31st, Mar 2020",true
+243,36 year-old male Singapore Citizen,36,Male,Singaporean,Recovered,Imported case,Unclear origin,5,10,"11th, Mar 2020","16th, Mar 2020","26th, Mar 2020",true
+244,53 year-old male Singapore Citizen,53,Male,Singaporean,Recovered,Imported case,Unclear origin,9,17,"7th, Mar 2020","16th, Mar 2020","2nd, Apr 2020",true
+245,76 year-old male Singaporean Citizen,76,Male,Singaporean,In hospital,Local transmission,Unclear origin,4,-,"12th, Mar 2020","16th, Mar 2020",-,true
+246,39 year-old male Canadian national,39,Male,Canadian,Recovered,Imported case,Japan,7,16,"9th, Mar 2020","16th, Mar 2020","1st, Apr 2020",true
+247,41 year-old male Singapore Citizen,41,Male,Singaporean,Recovered,Imported case,Unclear origin,0,14,"16th, Mar 2020","16th, Mar 2020","30th, Mar 2020",true
+248,23 year-old female Malaysian national who is aSingapore Work Pass holder,23,Female,Malaysian,Recovered,Local transmission,Unclear origin,-,14,-,"17th, Mar 2020","31st, Mar 2020",true
+249,42 year-old male Singapore Permanent Resident,42,Male,Singaporean,Recovered,Imported case,United states,-,16,-,"17th, Mar 2020","2nd, Apr 2020",true
+250,28 year-old male British national who is aSingapore Work Pass holder,28,Male,British,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+251,59 year-old female Singapore Citizen ,59,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,10,-,"17th, Mar 2020","27th, Mar 2020",true
+252,66 year-old male Singapore Citizen,66,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,12,-,"17th, Mar 2020","29th, Mar 2020",true
+253,24 year-old male Singapore Citizen,24,Male,Singaporean,Recovered,Imported case,Spain,-,13,-,"17th, Mar 2020","30th, Mar 2020",true
+254,43 year-old female Singapore Permanent Resident,43,Female,Singaporean,In hospital,Imported case,France,-,-,-,"17th, Mar 2020",-,true
+255,44 year-old male Swedish national,44,Male,Swedish,Recovered,Imported case,Unclear origin,-,4,-,"17th, Mar 2020","21st, Mar 2020",true
+256,32 year-old female Filipino national,32,Female,Filipino,Recovered,Local transmission,Unclear origin,-,11,-,"17th, Mar 2020","28th, Mar 2020",true
+257,19 year-old male French national,19,Male,French,Recovered,Imported case,United kingdom,-,15,-,"17th, Mar 2020","1st, Apr 2020",true
+258,47 year-old male Indian national,47,Male,Indian,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+259,30 year-old female Singapore Citizen,30,Female,Singaporean,Recovered,Imported case,Philippines,-,10,-,"17th, Mar 2020","27th, Mar 2020",true
+260,48 year-old female Singapore Permanent Resident,48,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,6,-,"17th, Mar 2020","23rd, Mar 2020",true
+261,30 year-old male American national,30,Male,American,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+262,20 year-old female Indonesian national,20,Female,Indonesian,Recovered,Imported case,United kingdom,-,14,-,"17th, Mar 2020","31st, Mar 2020",true
+263,52 year-old female Singapore Citizen,52,Female,Singaporean,Recovered,Imported case,Unclear origin,-,13,-,"17th, Mar 2020","30th, Mar 2020",true
+264,41 year-old female Indonesian national,41,Female,Indonesian,Recovered,Imported case,Indonesia,-,11,-,"17th, Mar 2020","28th, Mar 2020",true
+265,25 year-old female Singapore Citizen ,25,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"17th, Mar 2020",-,true
+266,63 year-old male Singapore Citizen,63,Male,Singaporean,Recovered,Imported case,Unclear origin,-,18,-,"17th, Mar 2020","4th, Apr 2020",true
+267,72 Year Old Female Singaporean,72,Female,Singaporean,In hospital,Imported case,Indonesia,-,-,-,"17th, Mar 2020",-,true
+268,64 Year Old Male British,64,Male,British,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+269,19 Year Old Female Singaporean,19,Female,Singaporean,Recovered,Imported case,United kingdom,-,12,-,"17th, Mar 2020","29th, Mar 2020",true
+270,62 Year Old Female Singaporean,62,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+271,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"17th, Mar 2020",-,true
+272,65 Year Old Male Singaporean,65,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+273,69 Year Old Male Singaporean,69,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+274,50 Year Old Male American,50,Male,American,In hospital,Imported case,United states,-,-,-,"17th, Mar 2020",-,true
+275,27 Year Old Male Singaporean,27,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,4,-,"17th, Mar 2020","21st, Mar 2020",true
+276,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"17th, Mar 2020",-,true
+277,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"17th, Mar 2020",-,true
+278,48 Year Old Female American,48,Female,American,Recovered,Imported case,Unclear origin,-,9,-,"17th, Mar 2020","26th, Mar 2020",true
+279,71 Year Old Male Singaporean,71,Male,Singaporean,In hospital,Imported case,Philippines,-,-,-,"17th, Mar 2020",-,true
+280,21 Year Old Female Singaporean,21,Female,Singaporean,Recovered,Imported case,United kingdom,-,13,-,"17th, Mar 2020","30th, Mar 2020",true
+281,46 Year Old Male Singaporean,46,Male,Singaporean,Recovered,Imported case,Unclear origin,-,11,-,"17th, Mar 2020","28th, Mar 2020",true
+282,Year Old Male Unidentified Nationality,- ,Male,Unidentified nationality,Recovered,Imported case,France,-,18,-,"17th, Mar 2020","4th, Apr 2020",true
+283,62 Year Old Female Singaporean,62,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,16,-,"17th, Mar 2020","2nd, Apr 2020",true
+284,32 Year Old Male Singaporean,32,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"17th, Mar 2020",-,true
+285,42 Year Old Female Thai,42,Female,Thai,In hospital,Imported case,Thailand,-,-,-,"17th, Mar 2020",-,true
+286,54 Year Old Male British,54,Male,British,In hospital,Imported case,United kingdom,-,-,-,"17th, Mar 2020",-,true
+287,26 Year Old Male Singaporean,26,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"17th, Mar 2020",-,true
+288,71 Year Old Male Singaporean,71,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+289,62 Year Old Male Singaporean,62,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+290,69 Year Old Male Singaporean,69,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,13,-,"18th, Mar 2020","31st, Mar 2020",true
+291,52 Year Old Male Indian,52,Male,Indian,Recovered,Local transmission,Unclear origin,-,5,-,"18th, Mar 2020","23rd, Mar 2020",true
+292,64 Year Old Female Singaporean,64,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"18th, Mar 2020",-,true
+293,30 Year Old Male British,30,Male,British,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+294,58 Year Old Female Singaporean,58,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+295,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"18th, Mar 2020",-,true
+296,25 Year Old Female Malaysian,25,Female,Malaysian,Recovered,Imported case,United kingdom,-,10,-,"18th, Mar 2020","28th, Mar 2020",true
+297,31 Year Old Male Indonesian,31,Male,Indonesian,Recovered,Imported case,Indonesia,-,17,-,"18th, Mar 2020","4th, Apr 2020",true
+298,44 Year Old Male Singaporean,44,Male,Singaporean,Recovered,Imported case,India,-,13,-,"18th, Mar 2020","31st, Mar 2020",true
+299,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,Philippines,-,-,-,"18th, Mar 2020",-,true
+300,28 Year Old Male German,28,Male,German,In hospital,Imported case,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+301,63 Year Old Male Singaporean,63,Male,Singaporean,Recovered,Imported case,Unclear origin,-,15,-,"18th, Mar 2020","2nd, Apr 2020",true
+302,49 Year Old Female Singaporean,49,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,10,-,"18th, Mar 2020","28th, Mar 2020",true
+303,27 Year Old Male Malaysian,27,Male,Malaysian,Recovered,Local transmission,Unclear origin,-,9,-,"18th, Mar 2020","27th, Mar 2020",true
+304,27 Year Old Female Singaporean,27,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+305,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+306,56 Year Old Male Singaporean,56,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+307,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,Philippines,-,-,-,"18th, Mar 2020",-,true
+308,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"18th, Mar 2020",-,true
+309,60 Year Old Male Singaporean,60,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+310,58 Year Old Male Singaporean,58,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+311,80 Year Old Female Singaporean,80,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,4,-,"18th, Mar 2020","22nd, Mar 2020",true
+312,30 Year Old Male French,30,Male,French,In hospital,Imported case,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+313,39 Year Old Male British,39,Male,British,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+314,58 Year Old Male Singaporean,58,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,11,-,"18th, Mar 2020","29th, Mar 2020",true
+315,57 Year Old Male Singaporean,57,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+316,25 Year Old Male Malaysian,25,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"18th, Mar 2020",-,true
+317,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+318,58 Year Old Female Chinese,58,Female,Chinese,Recovered,Local transmission,Unclear origin,-,13,-,"18th, Mar 2020","31st, Mar 2020",true
+319,67 Year Old Female Filipino,67,Female,Filipino,Recovered,Imported case,Philippines,-,17,-,"18th, Mar 2020","4th, Apr 2020",true
+320,34 Year Old Male Singaporean,34,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+321,65 Year Old Female Singaporean,65,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,12,-,"18th, Mar 2020","30th, Mar 2020",true
+322,46 Year Old Female Singaporean,46,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"18th, Mar 2020",-,true
+323,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+324,45 Year Old Male Brazilian,45,Male,Brazilian,In hospital,Imported case,United kingdom,-,-,-,"18th, Mar 2020",-,true
+325,38 Year Old Male Filipino,38,Male,Filipino,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+326,33 Year Old Male Singaporean,33,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+327,38 Year Old Female Singaporean,38,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+328,63 Year Old Female Singaporean,63,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+329,64 Year Old Male Singaporean,64,Male,Singaporean,In hospital,Imported case,Turkey,-,-,-,"19th, Mar 2020",-,true
+330,67 Year Old Male Singaporean,67,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,10,-,"19th, Mar 2020","29th, Mar 2020",true
+331,49 Year Old Female Singaporean,49,Female,Singaporean,Recovered,Imported case,United kingdom,-,14,-,"19th, Mar 2020","2nd, Apr 2020",true
+332,36 Year Old Female American,36,Female,American,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+333,48 Year Old Male Colombian,48,Male,Colombian,In hospital,Imported case,United states,-,-,-,"19th, Mar 2020",-,true
+334,32 Year Old Female Singaporean,32,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"19th, Mar 2020",-,true
+335,57 Year Old Male Singaporean,57,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,8,-,"19th, Mar 2020","27th, Mar 2020",true
+336,60 Year Old Male Singaporean,60,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+337,31 Year Old Male Swiss,31,Male,Swiss,In hospital,Imported case,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+338,57 Year Old Male Singaporean,57,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+339,66 Year Old Male Singaporean,66,Male,Singaporean,In hospital,Imported case,Philippines,-,-,-,"19th, Mar 2020",-,true
+340,27 Year Old Male Singaporean,27,Male,Singaporean,Recovered,Imported case,Unclear origin,-,16,-,"19th, Mar 2020","4th, Apr 2020",true
+341,31 Year Old Male German,31,Male,German,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+342,31 Year Old Male Singaporean,31,Male,Singaporean,In hospital,Imported case,Thailand,-,-,-,"19th, Mar 2020",-,true
+343,20 Year Old Female Singaporean,20,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+344,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+345,30 Year Old Male German,30,Male,German,Recovered,Local transmission,Unclear origin,-,11,-,"19th, Mar 2020","30th, Mar 2020",true
+346,59 Year Old Male Singaporean,59,Male,Singaporean,Recovered,Imported case,India,-,10,-,"19th, Mar 2020","29th, Mar 2020",true
+347,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+348,51 Year Old Female Singaporean,51,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+349,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+350,61 Year Old Male Singaporean,61,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+351,51 Year Old Male Singaporean,51,Male,Singaporean,Recovered,Imported case,Indonesia,-,9,-,"19th, Mar 2020","28th, Mar 2020",true
+352,43 Year Old Male Singaporean,43,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+353,23 Year Old Male Singaporean,23,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,7,-,"19th, Mar 2020","26th, Mar 2020",true
+354,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+355,38 Year Old Male Australian,38,Male,Australian,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+356,27 Year Old Male Australian,27,Male,Australian,In hospital,Imported case,India,-,-,-,"19th, Mar 2020",-,true
+357,41 Year Old Male German,41,Male,German,Recovered,Imported case,Germany,-,11,-,"19th, Mar 2020","30th, Mar 2020",true
+358,39 Year Old Female Singaporean,39,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+359,45 Year Old Female Singaporean,45,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"19th, Mar 2020",-,true
+360,26 Year Old Male Singaporean,26,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+361,32 Year Old Male Singaporean,32,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,15,-,"19th, Mar 2020","3rd, Apr 2020",true
+362,45 Year Old Female German,45,Female,German,In hospital,Imported case,Germany,-,-,-,"19th, Mar 2020",-,true
+363,49 Year Old Male Singaporean,49,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"19th, Mar 2020",-,true
+364,52 Year Old Male Singaporean,52,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+365,33 Year Old Male Dutch,33,Male,Dutch,In hospital,Imported case,Netherlands,-,-,-,"20th, Mar 2020",-,true
+366,26 Year Old Female Singaporean,26,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+367,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+368,19 Year Old Female Indonesian,19,Female,Indonesian,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+369,34 Year Old Male Singaporean,34,Male,Singaporean,In hospital,Imported case,Thailand,-,-,-,"20th, Mar 2020",-,true
+370,73 Year Old Male Malaysian,73,Male,Malaysian,In hospital,Imported case,Indonesia,-,-,-,"20th, Mar 2020",-,true
+371,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+372,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+373,51 Year Old Male Singaporean,51,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+374,23 Year Old Female Singaporean,23,Female,Singaporean,Recovered,Imported case,United kingdom,-,9,-,"20th, Mar 2020","29th, Mar 2020",true
+375,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"20th, Mar 2020",-,true
+376,21 Year Old Female Singaporean,21,Female,Singaporean,Recovered,Imported case,United kingdom,-,10,-,"20th, Mar 2020","30th, Mar 2020",true
+377,59 Year Old Male Singaporean,59,Male,Singaporean,Recovered,Imported case,United kingdom,-,6,-,"20th, Mar 2020","26th, Mar 2020",true
+378,38 Year Old Male British,38,Male,British,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+379,62 Year Old Male Swedish,62,Male,Swedish,Recovered,Imported case,Indonesia,-,13,-,"20th, Mar 2020","2nd, Apr 2020",true
+380,34 Year Old Male Singaporean,34,Male,Singaporean,In hospital,Imported case,Switzerland,-,-,-,"20th, Mar 2020",-,true
+381,27 Year Old Female Singaporean,27,Female,Singaporean,Recovered,Imported case,Spain,-,15,-,"20th, Mar 2020","4th, Apr 2020",true
+382,55 Year Old Female Singaporean,55,Female,Singaporean,Recovered,Imported case,United kingdom,-,9,-,"20th, Mar 2020","29th, Mar 2020",true
+383,42 Year Old Female Singaporean,42,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+384,65 Year Old Male Singaporean,65,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+385,22 Year Old Male Singaporean,22,Male,Singaporean,Recovered,Imported case,United kingdom,-,13,-,"20th, Mar 2020","2nd, Apr 2020",true
+386,64 Year Old Female Singaporean,64,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+387,30 Year Old Female Swiss,30,Female,Swiss,In hospital,Imported case,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+388,40 Year Old Male Singaporean,40,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+389,36 Year Old Female Russian,36,Female,Russian,In hospital,Imported case,India,-,-,-,"20th, Mar 2020",-,true
+390,35 Year Old Female Singaporean,35,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+391,53 Year Old Male Australian,53,Male,Australian,In hospital,Imported case,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+392,54 Year Old Male Singaporean,54,Male,Singaporean,In hospital,Imported case,Indonesia,-,-,-,"20th, Mar 2020",-,true
+393,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+394,66 Year Old Female Filipino,66,Female,Filipino,In hospital,Imported case,Philippines,-,-,-,"20th, Mar 2020",-,true
+395,54 Year Old Male Singaporean,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,14,-,"20th, Mar 2020","3rd, Apr 2020",true
+396,46 Year Old Male Singaporean,46,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,7,-,"20th, Mar 2020","27th, Mar 2020",true
+397,43 Year Old Male Irish,43,Male,Irish,In hospital,Imported case,Ireland,-,-,-,"20th, Mar 2020",-,true
+398,57 Year Old Male Singaporean,57,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,10,-,"20th, Mar 2020","30th, Mar 2020",true
+399,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+400,56 Year Old Male Singaporean,56,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+401,20 Year Old Male Singaporean,20,Male,Singaporean,Recovered,Imported case,United kingdom,-,11,-,"20th, Mar 2020","31st, Mar 2020",true
+402,22 Year Old Female Indonesian,22,Female,Indonesian,In hospital,Imported case,Indonesia,-,-,-,"20th, Mar 2020",-,true
+403,77 Year Old Male Indonesian,77,Male,Indonesian,In hospital,Imported case,Indonesia,-,-,-,"20th, Mar 2020",-,true
+404,28 Year Old Male Australian,28,Male,Australian,In hospital,Imported case,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+405,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"20th, Mar 2020",-,true
+406,61 Year Old Female Singaporean,61,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,8,-,"20th, Mar 2020","28th, Mar 2020",true
+407,25 Year Old Male Spanish,25,Male,Spanish,In hospital,Imported case,Unclear origin,-,-,-,"20th, Mar 2020",-,true
+408,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"20th, Mar 2020",-,true
+409,23 Year Old Female Australian,23,Female,Australian,In hospital,Imported case,United states,-,-,-,"20th, Mar 2020",-,true
+410,20 Year Old Female Singaporean,20,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+411,30 Year Old Male Singaporean,30,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+412,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+413,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,Switzerland,-,-,-,"21st, Mar 2020",-,true
+414,37 Year Old Male Australian,37,Male,Australian,Recovered,Imported case,United states,-,12,-,"21st, Mar 2020","2nd, Apr 2020",true
+415,64 Year Old Female Indonesian,64,Female,Indonesian,Recovered,Imported case,Indonesia,-,14,-,"21st, Mar 2020","4th, Apr 2020",true
+416,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+417,18 Year Old Female French,18,Female,French,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+418,44 year-old male Singapore Permanent Resident,44,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+419,45 Year Old Male Dutch,45,Male,Dutch,In hospital,Imported case,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+420,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+421,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+422,56 Year Old Female Singaporean,56,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+423,24 Year Old Male Singaporean,24,Male,Singaporean,Recovered,Imported case,Ireland,-,8,-,"21st, Mar 2020","29th, Mar 2020",true
+424,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+425,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+426,55 Year Old Female Singaporean,55,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,8,-,"21st, Mar 2020","29th, Mar 2020",true
+427,39 Year Old Male Singaporean,39,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+428,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+429,31 Year Old Female Singaporean,31,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+430,59 Year Old Female Singaporean,59,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+431,58 Year Old Male Singaporean,58,Male,Singaporean,Recovered,Imported case,United kingdom,-,14,-,"21st, Mar 2020","4th, Apr 2020",true
+432,53 Year Old Female British,53,Female,British,In hospital,Imported case,Indonesia,-,-,-,"21st, Mar 2020",-,true
+433,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Canada,-,-,-,"21st, Mar 2020",-,true
+434,36 Year Old Male Singaporean,36,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,8,-,"21st, Mar 2020","29th, Mar 2020",true
+435,30 Year Old Female Singaporean,30,Female,Singaporean,Recovered,Imported case,Malaysia,-,4,-,"21st, Mar 2020","25th, Mar 2020",true
+436,46 Year Old Male Singaporean,46,Male,Singaporean,In hospital,Imported case,Philippines,-,-,-,"21st, Mar 2020",-,true
+437,33 Year Old Male British,33,Male,British,Recovered,Imported case,Unclear origin,-,13,-,"21st, Mar 2020","3rd, Apr 2020",true
+438,55 Year Old Female American,55,Female,American,In hospital,Imported case,United states,-,-,-,"21st, Mar 2020",-,true
+439,55 Year Old Female Danish,55,Female,Danish,In hospital,Imported case,Denmark,-,-,-,"21st, Mar 2020",-,true
+440,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+441,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+442,48 Year Old Female Singaporean,48,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+443,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+444,44 Year Old Male Singaporean,44,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"21st, Mar 2020",-,true
+445,21 Year Old Male Singaporean,21,Male,Singaporean,Recovered,Imported case,United kingdom,-,13,-,"21st, Mar 2020","3rd, Apr 2020",true
+446,26 Year Old Female Indonesian,26,Female,Indonesian,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+447,32 Year Old Female Singaporean,32,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+448,21 Year Old Male Singaporean,21,Male,Singaporean,Recovered,Imported case,United kingdom,-,14,-,"21st, Mar 2020","4th, Apr 2020",true
+449,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"21st, Mar 2020",-,true
+450,44 Year Old Male Singaporean,44,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,4,-,"21st, Mar 2020","25th, Mar 2020",true
+451,62 Year Old Male Singaporean,62,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+452,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+453,41 Year Old Male Indian,41,Male,Indian,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+454,47 Year Old Female Singaporean,47,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"22nd, Mar 2020",-,true
+455,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+456,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+457,40 Year Old Male Burmese,40,Male,Myanmarian,Recovered,Local transmission,Unclear origin,-,11,-,"22nd, Mar 2020","2nd, Apr 2020",true
+458,20 Year Old Female Singaporean,20,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+459,67 Year Old Male Singaporean,67,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+460,23 Year Old Female New Zealander,23,Female,New zealander,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+461,49 Year Old Female Singaporean,49,Female,Singaporean,Recovered,Imported case,Malaysia,-,6,-,"22nd, Mar 2020","28th, Mar 2020",true
+462,20 Year Old Female Singaporean,20,Female,Singaporean,Recovered,Imported case,United kingdom,-,9,-,"22nd, Mar 2020","31st, Mar 2020",true
+463,64 Year Old Male Singaporean,64,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+464,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+465,41 Year Old Male Singaporean,41,Male,Singaporean,Recovered,Imported case,United kingdom,-,13,-,"22nd, Mar 2020","4th, Apr 2020",true
+466,55 Year Old Male Singaporean,55,Male,Singaporean,Recovered,Imported case,Indonesia,-,8,-,"22nd, Mar 2020","30th, Mar 2020",true
+467,20 Year Old Female Singaporean,20,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+468,28 Year Old Male Singaporean,28,Male,Singaporean,Recovered,Imported case,United kingdom,-,13,-,"22nd, Mar 2020","4th, Apr 2020",true
+469,43 Year Old Male Singaporean,43,Male,Singaporean,Recovered,Imported case,Unclear origin,-,11,-,"22nd, Mar 2020","2nd, Apr 2020",true
+470,24 Year Old Female Singaporean,24,Female,Singaporean,In hospital,Imported case,Indonesia,-,-,-,"22nd, Mar 2020",-,true
+471,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+472,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+473,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+474,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+475,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,Ireland,-,-,-,"22nd, Mar 2020",-,true
+476,68 Year Old Male Indonesian,68,Male,Indonesian,Deceased,Imported case,Indonesia,-,11,-,"22nd, Mar 2020",-,true
+477,44 Year Old Male Irish,44,Male,Irish,In hospital,Local transmission,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+478,80 Year Old Male Singaporean,80,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,11,-,"22nd, Mar 2020","2nd, Apr 2020",true
+479,35 Year Old Female Indonesian,35,Female,Indonesian,In hospital,Local transmission,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+480,52 Year Old Female Singaporean,52,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+481,37 Year Old Female Singaporean,37,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+482,35 Year Old Male Singaporean,35,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"22nd, Mar 2020",-,true
+483,28 Year Old Female Singaporean,28,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"22nd, Mar 2020",-,true
+484,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+485,20 Year Old Male Singaporean,20,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+486,22 Year Old Male Singaporean,22,Male,Singaporean,Recovered,Imported case,United kingdom,-,8,-,"22nd, Mar 2020","30th, Mar 2020",true
+487,72 Year Old Male Singaporean,72,Male,Singaporean,In hospital,Imported case,Indonesia,-,-,-,"22nd, Mar 2020",-,true
+488,36 Year Old Male Singaporean,36,Male,Singaporean,Recovered,Imported case,United kingdom,-,12,-,"22nd, Mar 2020","3rd, Apr 2020",true
+489,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+490,36 Year Old Male Singaporean,36,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+491,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+492,24 Year Old Female Indian,24,Female,Indian,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+493,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+494,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Sweden,-,-,-,"22nd, Mar 2020",-,true
+495,29 Year Old Female Singaporean,29,Female,Singaporean,Recovered,Imported case,United kingdom,-,12,-,"22nd, Mar 2020","3rd, Apr 2020",true
+496,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+497,63 Year Old Female Singaporean,63,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+498,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+499,27 Year Old Female Singaporean,27,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"22nd, Mar 2020",-,true
+500,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"22nd, Mar 2020",-,true
+501,65 Year Old Male Singaporean,65,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+502,74 Year Old Female Indian,74,Female,Indian,Recovered,Imported case,United kingdom,-,7,-,"22nd, Mar 2020","29th, Mar 2020",true
+503,26 Year Old Male Singaporean,26,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"22nd, Mar 2020",-,true
+504,32 Year Old Female Singaporean,32,Female,Singaporean,Recovered,Imported case,Unclear origin,-,3,-,"23rd, Mar 2020","26th, Mar 2020",true
+505,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"23rd, Mar 2020",-,true
+506,49 Year Old Male Australian,49,Male,Australian,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+507,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"23rd, Mar 2020",-,true
+508,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"23rd, Mar 2020",-,true
+509,53 Year Old Male Singaporean,53,Male,Singaporean,Recovered,Imported case,Indonesia,-,10,-,"23rd, Mar 2020","2nd, Apr 2020",true
+510,52 Year Old Female Singaporean,52,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"23rd, Mar 2020",-,true
+511,53 Year Old Male Singaporean,53,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"23rd, Mar 2020",-,true
+512,21 Year Old Female Singaporean,21,Female,Singaporean,Recovered,Imported case,United kingdom,-,11,-,"23rd, Mar 2020","3rd, Apr 2020",true
+513,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+514,18 Year Old Female Indian,18,Female,Indian,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+515,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"23rd, Mar 2020",-,true
+516,42 Year Old Female Singaporean,42,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+517,37 Year Old Male Singaporean,37,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+518,46 Year Old Male Australian,46,Male,Australian,In hospital,Imported case,United states,-,-,-,"23rd, Mar 2020",-,true
+519,44 Year Old Male German,44,Male,German,In hospital,Imported case,Germany,-,-,-,"23rd, Mar 2020",-,true
+520,71 Year Old Male Singaporean,71,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,1,-,"23rd, Mar 2020","24th, Mar 2020",true
+521,37 Year Old Female Singaporean,37,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"23rd, Mar 2020",-,true
+522,45 Year Old Female Singaporean,45,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"23rd, Mar 2020",-,true
+523,9 Year Old Male Filipino,9,Male,Filipino,In hospital,Imported case,Philippines,-,-,-,"23rd, Mar 2020",-,true
+524,61 Year Old Male Singaporean,61,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+525,64 Year Old Female Singaporean,64,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+526,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"23rd, Mar 2020",-,true
+527,44 Year Old Male Singaporean,44,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+528,50 Year Old Male Singaporean,50,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+529,19 Year Old Female Singaporean,19,Female,Singaporean,Recovered,Imported case,Unclear origin,-,9,-,"24th, Mar 2020","2nd, Apr 2020",true
+530,35 Year Old Male Singaporean,35,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"24th, Mar 2020",-,true
+531,43 Year Old Male Indian,43,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+532,44 Year Old Male Singaporean,44,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+533,61 Year Old Male Singaporean,61,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+534,34 Year Old Male British,34,Male,British,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+535,61 Year Old Male Singaporean,61,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,9,-,"24th, Mar 2020","2nd, Apr 2020",true
+536,86 Year Old Female Singaporean,86,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+537,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+538,50 Year Old Male Singaporean,50,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"23rd, Mar 2020",-,true
+539,74 Year Old Female Singaporean,74,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,8,-,"24th, Mar 2020","1st, Apr 2020",true
+540,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"24th, Mar 2020",-,true
+541,20 Year Old Female Singaporean,20,Female,Singaporean,Recovered,Imported case,Unclear origin,-,3,-,"24th, Mar 2020","27th, Mar 2020",true
+542,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+543,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+544,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+545,75 Year Old Female Indonesian,75,Female,Indonesian,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+546,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+547,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+548,44 Year Old Female Singaporean,44,Female,Singaporean,In hospital,Imported case,Spain,-,-,-,"24th, Mar 2020",-,true
+549,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+550,24 Year Old Female Singaporean,24,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+551,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+552,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+553,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+554,24 Year Old Female Malaysian,24,Female,Malaysian,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+555,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+556,27 Year Old Female British,27,Female,British,In hospital,Local transmission,Australia,-,-,-,"24th, Mar 2020",-,true
+557,68 Year Old Male Singaporean,68,Male,Singaporean,In hospital,Imported case,Pakistan,-,-,-,"24th, Mar 2020",-,true
+558,17 Year Old Male Singaporean,17,Male,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"24th, Mar 2020",-,true
+559,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+560,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"24th, Mar 2020",-,true
+561,30 Year Old Male Singaporean,30,Male,Singaporean,In hospital,Imported case,France,-,-,-,"24th, Mar 2020",-,true
+562,28 Year Old Female Singaporean,28,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+563,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+564,29 Year Old Male French,29,Male,French,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+565,46 Year Old Female Singaporean,46,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+566,67 Year Old Female Singaporean,67,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"24th, Mar 2020",-,true
+567,70 Year Old Male Singaporean,70,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"24th, Mar 2020",-,true
+568,30 Year Old Male Malaysian,30,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"24th, Mar 2020",-,true
+569,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+570,50 Year Old Male Singaporean,50,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,7,-,"24th, Mar 2020","31st, Mar 2020",true
+571,52 Year Old Male British,52,Male,British,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+572,26 Year Old Female Singaporean,26,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+573,45 Year Old Male Singaporean,45,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+574,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+575,28 Year Old Male Singaporean,28,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+576,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"24th, Mar 2020",-,true
+577,37 Year Old Female Unidentified Nationality,37,Female,Unidentified nationality,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+578,11 Year Old Male Singaporean,11,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+579,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+580,35 Year Old Female American,35,Female,American,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+581,47 Year Old Male Singaporean,47,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+582,3 Year Old Female Singaporean,3,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"24th, Mar 2020",-,true
+583,61 Year Old Female Singaporean,61,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+584,37 Year Old Female Singaporean,37,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+585,38 Year Old Female Filipino,38,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+586,51 Year Old Male Singaporean,51,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+587,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+588,62 Year Old Male British,62,Male,British,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+589,47 Year Old Male Singaporean,47,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+590,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+591,64 Year Old Male Singaporean,64,Male,Singaporean,In hospital,Imported case,Portugal,-,-,-,"24th, Mar 2020",-,true
+592,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"24th, Mar 2020",-,true
+593,24 Year Old Male Singaporean,24,Male,Singaporean,Recovered,Imported case,United states,-,5,-,"24th, Mar 2020","29th, Mar 2020",true
+594,23 Year Old Female Chinese,23,Female,Chinese,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+595,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+596,35 Year Old Male Singaporean,35,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+597,50 Year Old Female Singaporean,50,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+598,35 Year Old Female Indian,35,Female,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+599,32 Year Old Male Singaporean,32,Male,Singaporean,Recovered,Imported case,United kingdom,-,9,-,"25th, Mar 2020","3rd, Apr 2020",true
+600,66 Year Old Male Singaporean,66,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+601,47 Year Old Female Singaporean,47,Female,Singaporean,Recovered,Local transmission,Unclear origin,7,5,"17th, Mar 2020","24th, Mar 2020","29th, Mar 2020",true
+602,56 Year Old Female Singaporean,56,Female,Singaporean,Recovered,Local transmission,Unclear origin,-,10,-,"24th, Mar 2020","3rd, Apr 2020",true
+603,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+604,36 Year Old Female Filipino,36,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+605,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+606,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+607,40 Year Old Female Singaporean,40,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+608,18 Year Old Female French,18,Female,French,In hospital,Imported case,Canada,-,-,-,"25th, Mar 2020",-,true
+609,30 Year Old Female Singaporean,30,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+610,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+611,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+612,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"24th, Mar 2020",-,true
+613,62 Year Old Female Singaporean,62,Female,Singaporean,In hospital,Imported case,Thailand,-,-,-,"25th, Mar 2020",-,true
+614,62 Year Old Female Singaporean,62,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+615,44 Year Old Female Singaporean,44,Female,Singaporean,In hospital,Imported case,Germany,-,-,-,"25th, Mar 2020",-,true
+616,39 Year Old Male Malaysian,39,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"25th, Mar 2020",-,true
+617,26 Year Old Female Filipino,26,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+618,29 Year Old Female British,29,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+619,65 Year Old Female Singaporean,65,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+620,18 Year Old Female Singaporean,18,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+621,50 Year Old Male Singaporean,50,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+622,27 Year Old Female Singaporean,27,Female,Singaporean,Recovered,Imported case,United kingdom,-,9,-,"25th, Mar 2020","3rd, Apr 2020",true
+623,58 Year Old Female Indonesian,58,Female,Indonesian,In hospital,Imported case,Indonesia,-,-,-,"25th, Mar 2020",-,true
+624,48 Year Old Female Singaporean,48,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+625,27 Year Old Male Filipino,27,Male,Filipino,Recovered,Imported case,Philippines,-,8,-,"25th, Mar 2020","2nd, Apr 2020",true
+626,44 Year Old Female British,44,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+627,18 Year Old Female Singaporean,18,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+628,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+629,46 Year Old Male Singaporean,46,Male,Singaporean,Recovered,Imported case,Pakistan,-,5,-,"25th, Mar 2020","30th, Mar 2020",true
+630,43 Year Old Female Singaporean,43,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+631,3 Year Old Female Indian,3,Female,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+632,32 Year Old Male Singaporean,32,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+633,35 Year Old Male Singaporean,35,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+634,42 Year Old Female Singaporean,42,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+635,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"25th, Mar 2020",-,true
+636,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+637,24 Year Old Male Chinese,24,Male,Chinese,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+638,49 Year Old Male Singaporean,49,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+639,40 Year Old Male Singaporean,40,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+640,18 Year Old Male Singaporean,18,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+641,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+642,19 Year Old Male Singaporean,19,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+643,51 Year Old Female Singaporean,51,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+644,52 Year Old Male Singaporean,52,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+645,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+646,56 Year Old Female Singaporean,56,Female,Singaporean,In hospital,Imported case,Indonesia,-,-,-,"25th, Mar 2020",-,true
+647,46 Year Old Female Singaporean,46,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"25th, Mar 2020",-,true
+648,26 Year Old Male French,26,Male,French,In hospital,Imported case,Sri lanka,-,-,-,"25th, Mar 2020",-,true
+649,36 Year Old Male Singaporean,36,Male,Singaporean,In hospital,Imported case,Australia,-,-,-,"25th, Mar 2020",-,true
+650,19 Year Old Male Singaporean,19,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"25th, Mar 2020",-,true
+651,31 Year Old Male Malaysian,31,Male,Malaysian,Recovered,Imported case,Thailand,-,10,-,"25th, Mar 2020","4th, Apr 2020",true
+652,37 Year Old Male Australian,37,Male,Australian,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+653,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"25th, Mar 2020",-,true
+654,66 Year Old Female Singaporean,66,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+655,30 Year Old Male Indian,30,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+656,30 Year Old Male Singaporean,30,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+657,46 Year Old Male British,46,Male,British,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+658,28 Year Old Male Bangladeshi,28,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+659,27 Year Old Female Singaporean,27,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+660,22 Year Old Female Filipino,22,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"25th, Mar 2020",-,true
+661,44 Year Old Female Singaporean,44,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+662,42 Year Old Male British,42,Male,British,In hospital,Local transmission,Malaysia,-,-,-,"26th, Mar 2020",-,true
+663,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"26th, Mar 2020",-,true
+664,38 Year Old Female American,38,Female,American,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+665,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+666,32 Year Old Female Singaporean,32,Female,Singaporean,In hospital,Local transmission,Unclear origin,2,-,"24th, Mar 2020","26th, Mar 2020",-,true
+667,40 Year Old Female Singaporean,40,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+668,31 Year Old Female Indian,31,Female,Indian,In hospital,Local transmission,India,-,-,-,"26th, Mar 2020",-,true
+669,54 Year Old Male British,54,Male,British,In hospital,Imported case,France,-,-,-,"26th, Mar 2020",-,true
+670,34 Year Old Male Australian,34,Male,Australian,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+671,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+672,24 Year Old Female Singaporean,24,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+673,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+674,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"26th, Mar 2020",-,true
+675,51 Year Old Female Singaporean,51,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+676,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Local transmission,Thailand,-,-,-,"26th, Mar 2020",-,true
+677,40 Year Old Female Singaporean,40,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+678,71 Year Old Male Singaporean,71,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+679,45 Year Old Male American,45,Male,American,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+680,19 Year Old Male British,19,Male,British,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+681,42 Year Old Male New Zealander,42,Male,New zealander,In hospital,Local transmission,Indonesia,-,-,-,"26th, Mar 2020",-,true
+682,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+683,40 Year Old Female Singaporean,40,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+684,21 Year Old Male Singaporean,21,Male,Singaporean,Recovered,Imported case,United kingdom,-,8,-,"26th, Mar 2020","3rd, Apr 2020",true
+685,59 Year Old Male New Zealander,59,Male,New zealander,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+686,37 Year Old Male British,37,Male,British,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+687,77 Year Old Male Singaporean,77,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+688,76 Year Old Female Singaporean,76,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+689,76 Year Old Female Singaporean,76,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"26th, Mar 2020",-,true
+690,31 Year Old Female Singaporean,31,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+691,39 Year Old Female British,39,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+692,67 Year Old Female Singaporean,67,Female,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"26th, Mar 2020",-,true
+693,30 Year Old Female Singaporean,30,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+694,41 Year Old Male Singaporean,41,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+695,1 Year Old Female Indian,1,Female,Indian,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+696,54 Year Old Male Singaporean,54,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+697,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+698,60 Year Old Male Singaporean,60,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+699,53 Year Old Male Singaporean,53,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+700,55 Year Old Female Singaporean,55,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+701,50 Year Old Male Singaporean,50,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"26th, Mar 2020",-,true
+702,61 Year Old Male Singaporean,61,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+703,58 Year Old Female Singaporean,58,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+704,19 Year Old Male Singaporean,19,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+705,2 Year Old Female Singaporean,2,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+706,6 Year Old Female Singaporean,6,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+707,11 Year Old Male Singaporean,11,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+708,13 Year Old Female Singaporean,13,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+709,26 Year Old Male Singaporean,26,Male,Singaporean,Recovered,Local transmission,Unclear origin,3,6,"23rd, Mar 2020","26th, Mar 2020","1st, Apr 2020",true
+710,28 Year Old Male Bangladeshi,28,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+711,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+712,38 Year Old Female Singaporean,38,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+713,59 Year Old Female British,59,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+714,27 Year Old Female South Korean,27,Female,South korean,In hospital,Local transmission,Unclear origin,-,-,-,"26th, Mar 2020",-,true
+715,71 Year Old Male Singaporean,71,Male,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"27th, Mar 2020",-,true
+716,67 Year Old Female Singaporean,67,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+717,19 Year Old Female Indian,19,Female,Indian,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+718,33 Year Old Male Bangladeshi,33,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+719,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+720,20 Year Old Male Indonesian,20,Male,Indonesian,In hospital,Imported case,United states,-,-,-,"27th, Mar 2020",-,true
+721,68 Year Old Female Singaporean,68,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+722,56 Year Old Male Singaporean,56,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+723,27 Year Old Female Singaporean,27,Female,Singaporean,Recovered,Imported case,United kingdom,-,7,-,"27th, Mar 2020","3rd, Apr 2020",true
+724,29 Year Old Male Malaysian,29,Male,Malaysian,Recovered,Local transmission,Unclear origin,-,8,-,"27th, Mar 2020","4th, Apr 2020",true
+725,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+726,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+727,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+728,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+729,53 Year Old Male Singaporean,53,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+730,26 Year Old Male Singaporean,26,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+731,32 Year Old Male Singaporean,32,Male,Singaporean,In hospital,Local transmission,Unclear origin,6,-,"21st, Mar 2020","27th, Mar 2020",-,true
+732,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+733,52 Year Old Male Australian,52,Male,Australian,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+734,31 Year Old Female Singaporean,31,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+735,29 Year Old Female Irish,29,Female,Irish,In hospital,Imported case,Vietnam,-,-,-,"27th, Mar 2020",-,true
+736,43 Year Old Male French,43,Male,French,In hospital,Imported case,Indonesia,-,-,-,"27th, Mar 2020",-,true
+737,28 Year Old Male Malaysian,28,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"27th, Mar 2020",-,true
+738,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+739,30 Year Old Female Singaporean,30,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+740,25 Year Old Male Chinese,25,Male,Chinese,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+741,42 Year Old Female Singaporean,42,Female,Singaporean,In hospital,Local transmission,Unclear origin,3,-,"24th, Mar 2020","27th, Mar 2020",-,true
+742,39 Year Old Male Singaporean,39,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+743,69 Year Old Male Singaporean,69,Male,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"27th, Mar 2020",-,true
+744,40 Year Old Female Singaporean,40,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+745,36 Year Old Female Singaporean,36,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+746,38 Year Old Male Singaporean,38,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"27th, Mar 2020",-,true
+747,51 Year Old Male Singaporean,51,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+748,36 Year Old Female Malaysian,36,Female,Malaysian,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+749,24 Year Old Female Singaporean,24,Female,Singaporean,Recovered,Imported case,United kingdom,-,6,-,"27th, Mar 2020","2nd, Apr 2020",true
+750,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+751,71 Year Old Male Singaporean,71,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+752,70 Year Old Female Singaporean,70,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+753,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Canada,-,-,-,"27th, Mar 2020",-,true
+754,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+755,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,Laos,-,-,-,"27th, Mar 2020",-,true
+756,42 Year Old Male Singaporean,42,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+757,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+758,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"27th, Mar 2020",-,true
+759,1 Year Old Female Singaporean,1,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+760,64 Year Old Male Singaporean,64,Male,Singaporean,In hospital,Imported case,Turkey,-,-,-,"27th, Mar 2020",-,true
+761,36 Year Old Female South African,36,Female,South african,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+762,21 Year Old Male Indian,21,Male,Indian,In hospital,Imported case,United states,-,-,-,"27th, Mar 2020",-,true
+763,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"27th, Mar 2020",-,true
+764,51 Year Old Male Spanish,51,Male,Spanish,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+765,31 Year Old Male Singaporean,31,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,6,-,"27th, Mar 2020","2nd, Apr 2020",true
+766,50 Year Old Male Singaporean,50,Male,Singaporean,Recovered,Imported case,Unclear origin,-,4,-,"27th, Mar 2020","31st, Mar 2020",true
+767,28 Year Old Male Singaporean,28,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+768,42 Year Old Male Bangladeshi,42,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+769,44 Year Old Male Singaporean,44,Male,Singaporean,In hospital,Imported case,Pakistan,-,-,-,"27th, Mar 2020",-,true
+770,47 Year Old Male Malaysian,47,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"27th, Mar 2020",-,true
+771,30 Year Old Male Singaporean,30,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+772,43 Year Old Male Singaporean,43,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"28th, Mar 2020",-,true
+773,55 Year Old Female Indian,55,Female,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+774,24 Year Old Female Singaporean,24,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"27th, Mar 2020",-,true
+775,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+776,35 Year Old Male Singaporean,35,Male,Singaporean,Recovered,Imported case,Unclear origin,-,4,-,"27th, Mar 2020","31st, Mar 2020",true
+777,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,France,-,-,-,"28th, Mar 2020",-,true
+778,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"28th, Mar 2020",-,true
+779,55 Year Old Female Singaporean,55,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+780,50 Year Old Female Filipino,50,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+781,43 Year Old Female Singaporean,43,Female,Singaporean,In hospital,Imported case,Philippines,-,-,-,"27th, Mar 2020",-,true
+782,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+783,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+784,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"27th, Mar 2020",-,true
+785,31 Year Old Male Singaporean,31,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+786,51 Year Old Male Singaporean,51,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+787,40 Year Old Male Singaporean,40,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"28th, Mar 2020",-,true
+788,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+789,50 Year Old Female Singaporean,50,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+790,60 Year Old Male Singaporean,60,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+791,40 Year Old Female Indonesian,40,Female,Indonesian,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+792,50 Year Old Female Singaporean,50,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+793,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+794,22 Year Old Female Unidentified Nationality,22,Female,Unidentified nationality,In hospital,Imported case,Unclear origin,-,-,-,"27th, Mar 2020",-,true
+795,18 Year Old Male Singaporean,18,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+796,26 Year Old Male Malaysian,26,Male,Malaysian,In hospital,Local transmission,Malaysia,-,-,-,"27th, Mar 2020",-,true
+797,35 Year Old Female Indonesian,35,Female,Indonesian,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+798,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"28th, Mar 2020",-,true
+799,39 Year Old Male Singaporean,39,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+800,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"28th, Mar 2020",-,true
+801,39 Year Old Male Burmese,39,Male,Myanmarian,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+802,28 Year Old Female Singaporean,28,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+803,23 Year Old Male Singaporean,23,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"28th, Mar 2020",-,true
+804,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+805,32 Year Old Male Singaporean,32,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+806,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+807,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+808,44 Year Old Male Singaporean,44,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+809,37 Year Old Male Singaporean,37,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"28th, Mar 2020",-,true
+810,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+811,12 Year Old Female Australian,12,Female,Australian,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+812,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+813,29 Year Old Female British,29,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+814,61 Year Old Male Singaporean,61,Male,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"28th, Mar 2020",-,true
+815,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"28th, Mar 2020",-,true
+816,36 Year Old Female Singaporean,36,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"28th, Mar 2020",-,true
+817,43 Year Old Male Singaporean,43,Male,Singaporean,In hospital,Imported case,India,-,-,-,"28th, Mar 2020",-,true
+818,22 Year Old Female Japanese,22,Female,Japanese,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+819,35 Year Old Female Indian,35,Female,Indian,In hospital,Imported case,India,-,-,-,"28th, Mar 2020",-,true
+820,55 Year Old Female Singaporean,55,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+821,35 Year Old Male Bangladeshi,35,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,-,5,-,"28th, Mar 2020","2nd, Apr 2020",true
+822,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"28th, Mar 2020",-,true
+823,43 Year Old Male Singaporean,43,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+824,33 Year Old Female Singaporean,33,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+825,36 Year Old Male Filipino,36,Male,Filipino,In hospital,Imported case,Philippines,-,-,-,"28th, Mar 2020",-,true
+826,48 Year Old Male Bangladeshi,48,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+827,27 Year Old Female Singaporean,27,Female,Singaporean,Recovered,Imported case,United states,-,4,-,"28th, Mar 2020","1st, Apr 2020",true
+828,47 Year Old Male Singaporean,47,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+829,34 Year Old Male Indian,34,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"28th, Mar 2020",-,true
+830,61 Year Old Female Singaporean,61,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"28th, Mar 2020",-,true
+831,22 Year Old Male Singaporean,22,Male,Singaporean,In hospital,Imported case,United states,-,-,-,"29th, Mar 2020",-,true
+832,52 Year Old Male Singaporean,52,Male,Singaporean,In hospital,Imported case,United arab emirates,-,-,-,"29th, Mar 2020",-,true
+833,69 Year Old Male Malaysian,69,Male,Malaysian,In hospital,Imported case,United kingdom,-,-,-,"29th, Mar 2020",-,true
+834,34 Year Old Male Indian,34,Male,Indian,In hospital,Imported case,India,-,-,-,"28th, Mar 2020",-,true
+835,68 Year Old Female Singaporean,68,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"29th, Mar 2020",-,true
+836,43 Year Old Male Singaporean,43,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+837,68 Year Old Female Singaporean,68,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"29th, Mar 2020",-,true
+838,42 Year Old Female Singaporean,42,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"29th, Mar 2020",-,true
+839,57 Year Old Female Singaporean,57,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+840,52 Year Old Female Singaporean,52,Female,Singaporean,In hospital,Imported case,Philippines,-,-,-,"29th, Mar 2020",-,true
+841,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United states,-,-,-,"29th, Mar 2020",-,true
+842,30 Year Old Male Singaporean,30,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+843,68 Year Old Female Malaysian,68,Female,Malaysian,In hospital,Imported case,United kingdom,-,-,-,"29th, Mar 2020",-,true
+844,47 Year Old Female Singaporean,47,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+845,38 Year Old Female Singaporean,38,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"29th, Mar 2020",-,true
+846,68 Year Old Male Emirian,68,Male,Emirian,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+847,42 Year Old Male Singaporean,42,Male,Singaporean,In hospital,Imported case,Philippines,-,-,-,"29th, Mar 2020",-,true
+848,41 Year Old Female Taiwanese,41,Female,Taiwanese,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+849,34 Year Old Female Singaporean,34,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"29th, Mar 2020",-,true
+850,37 Year Old Male Singaporean,37,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+851,40 Year Old Female Brazilian,40,Female,Brazilian,In hospital,Imported case,Brazil,-,-,-,"29th, Mar 2020",-,true
+852,31 Year Old Male Indian,31,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+853,20 Year Old Male Malaysian,20,Male,Malaysian,In hospital,Local transmission,Unclear origin,1,-,"28th, Mar 2020","29th, Mar 2020",-,true
+854,43 Year Old Male Indian,43,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+855,88 Year Old Male Singaporean,88,Male,Singaporean,Deceased,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+856,32 Year Old Male Chinese,32,Male,Chinese,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+857,20 Year Old Male Singaporean,20,Male,Singaporean,In hospital,Imported case,Malaysia,-,-,-,"29th, Mar 2020",-,true
+858,35 Year Old Female Singaporean,35,Female,Singaporean,In hospital,Imported case,France,-,-,-,"29th, Mar 2020",-,true
+859,41 Year Old Male Bangladeshi,41,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+860,22 Year Old Male Indian,22,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+861,25 Year Old Female Singaporean,25,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+862,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"29th, Mar 2020",-,true
+863,49 Year Old Male Singaporean,49,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+864,27 Year Old Female Singaporean,27,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+865,36 Year Old Male Singaporean,36,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+866,52 Year Old Male Singaporean,52,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+867,36 Year Old Female Singaporean,36,Female,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"30th, Mar 2020",-,true
+868,29 Year Old Male Bangladeshi,29,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"29th, Mar 2020",-,true
+869,41 Year Old Male Singaporean,41,Male,Singaporean,Recovered,Local transmission,Unclear origin,-,4,-,"30th, Mar 2020","3rd, Apr 2020",true
+870,54 Year Old Male Singaporean,54,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+871,19 Year Old Female Singaporean,19,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+872,39 Year Old Female Singaporean,39,Female,Singaporean,In hospital,Imported case,United arab emirates,-,-,-,"30th, Mar 2020",-,true
+873,47 Year Old Female Singaporean,47,Female,Singaporean,In hospital,Local transmission,Vietnam,-,-,-,"30th, Mar 2020",-,true
+874,25 Year Old Male Singaporean,25,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+875,29 Year Old Male Bangladeshi,29,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+876,53 Year Old Female Singaporean,53,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+877,41 Year Old Male Malaysian,41,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"30th, Mar 2020",-,true
+878,34 Year Old Male Singaporean,34,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+879,26 Year Old Male Singaporean,26,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"30th, Mar 2020",-,true
+880,49 Year Old Male Bangladeshi,49,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+881,39 Year Old Male Singaporean,39,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"30th, Mar 2020",-,true
+882,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+883,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+884,40 Year Old Male Singaporean,40,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+885,26 Year Old Male Singaporean,26,Male,Singaporean,Recovered,Imported case,Denmark,-,4,-,"30th, Mar 2020","3rd, Apr 2020",true
+886,36 Year Old Male Singaporean,36,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+887,62 Year Old Male Singaporean,62,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+888,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+889,65 Year Old Male Singaporean,65,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+890,35 Year Old Female Singaporean,35,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+891,21 Year Old Male Indian,21,Male,Indian,In hospital,Local transmission,Unclear origin,1,-,"29th, Mar 2020","30th, Mar 2020",-,true
+892,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,Canada,-,-,-,"30th, Mar 2020",-,true
+893,44 Year Old Female Singaporean,44,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+894,27 Year Old Male Singaporean,27,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+895,43 Year Old Male Singaporean,43,Male,Singaporean,Recovered,Imported case,Indonesia,-,5,-,"30th, Mar 2020","4th, Apr 2020",true
+896,29 Year Old Female Filipino,29,Female,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+897,33 Year Old Male Sri Lankan,33,Male,Sri lankan,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+898,53 Year Old Male Filipino,53,Male,Filipino,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+899,33 Year Old Male Malaysian,33,Male,Malaysian,In hospital,Imported case,Malaysia,-,-,-,"30th, Mar 2020",-,true
+900,50 Year Old Male Singaporean,50,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+901,54 Year Old Female Singaporean,54,Female,Singaporean,In hospital,Imported case,Turkey,-,-,-,"30th, Mar 2020",-,true
+902,37 Year Old Male Sri Lankan,37,Male,Sri lankan,In hospital,Imported case,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+903,27 Year Old Female Singaporean,27,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+904,49 Year Old Male Singaporean,49,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+905,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"30th, Mar 2020",-,true
+906,44 Year Old Male Italian,44,Male,Italian,In hospital,Imported case,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+907,50 Year Old Male Dutch,50,Male,Dutch,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+908,36 Year Old Male Bangladeshi,36,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+909,58 Year Old Male Singaporean,58,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+910,59 Year Old Male Singaporean,59,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+911,78 Year Old Male Singaporean,78,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+912,39 Year Old Male Singaporean,39,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+913,66 Year Old Female Singaporean,66,Female,Singaporean,In hospital,Imported case,Australia,-,-,-,"31st, Mar 2020",-,true
+914,55 Year Old Male Singaporean,55,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"30th, Mar 2020",-,true
+915,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+916,46 Year Old Female Singaporean,46,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+917,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+918,86 Year Old Female Singaporean,86,Female,Singaporean,Deceased,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+919,56 Year Old Male Singaporean,56,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+920,55 Year Old Female Singaporean,55,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+921,32 Year Old Male Indian,32,Male,Indian,In hospital,Local transmission,India,-,-,-,"31st, Mar 2020",-,true
+922,36 Year Old Male Bangladeshi,36,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+923,20 Year Old Male Singaporean,20,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+924,34 Year Old Male Bangladeshi,34,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+925,33 Year Old Male Bangladeshi,33,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+926,33 Year Old Male Bangladeshi,33,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+927,61 Year Old Female Singaporean,61,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+928,72 Year Old Female Indonesian,72,Female,Indonesian,In hospital,Imported case,Indonesia,-,-,-,"31st, Mar 2020",-,true
+929,37 Year Old Female Singaporean,37,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+930,23 Year Old Female Singaporean,23,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+931,24 Year Old Male Singaporean,24,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+932,34 Year Old Female Singaporean,34,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+933,31 Year Old Male Singaporean,31,Male,Singaporean,In hospital,Imported case,Thailand,-,-,-,"31st, Mar 2020",-,true
+934,33 Year Old Male Bangladeshi,33,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+935,80 Year Old Male Singaporean,80,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+936,63 Year Old Male Singaporean,63,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+937,42 Year Old Male Singaporean,42,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+938,64 Year Old Male Indian,64,Male,Indian,In hospital,Imported case,India,-,-,-,"31st, Mar 2020",-,true
+939,35 Year Old Male Chinese,35,Male,Chinese,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+940,36 Year Old Male Cameroonian,36,Male,Cameroonian,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+941,52 Year Old Female Singaporean,52,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+942,58 Year Old Male Singaporean,58,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+943,31 Year Old Male Swiss,31,Male,Swiss,In hospital,Imported case,Switzerland,-,-,-,"31st, Mar 2020",-,true
+945,54 Year Old Female Singaporean,54,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+946,30 Year Old Male Indian,30,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+947,25 Year Old Male Bangladeshi,25,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+948,54 Year Old Female Singaporean,54,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+949,20 Year Old Male Singaporean,20,Male,Singaporean,In hospital,Imported case,India,-,-,-,"31st, Mar 2020",-,true
+950,29 Year Old Male Singaporean,29,Male,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+951,29 Year Old Female Singaporean,29,Female,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"30th, Mar 2020","31st, Mar 2020",-,true
+952,37 Year Old Female Singaporean,37,Female,Singaporean,In hospital,Imported case,United arab emirates,1,-,"30th, Mar 2020","31st, Mar 2020",-,true
+953,51 Year Old Male Singaporean,51,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+954,53 Year Old Female Singaporean,53,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+955,53 Year Old Male Australian,53,Male,Australian,In hospital,Imported case,South africa,-,-,-,"31st, Mar 2020",-,true
+956,32 Year Old Male Bangladeshi,32,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+957,73 Year Old Female Singaporean,73,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+958,41 Year Old Male Singaporean,41,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+959,41 Year Old Female Singaporean,41,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+960,22 Year Old Female Singaporean,22,Female,Singaporean,In hospital,Imported case,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+961,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"31st, Mar 2020",-,true
+962,33 Year Old Male Chinese,33,Male,Chinese,In hospital,Imported case,Ethiopia,-,-,-,"31st, Mar 2020",-,true
+963,26 Year Old Male Bangladeshi,26,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+964,37 Year Old Male Indian,37,Male,Indian,Recovered,Local transmission,Unclear origin,-,3,-,"31st, Mar 2020","3rd, Apr 2020",true
+965,34 Year Old Female Malaysian,34,Female,Malaysian,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+966,25 Year Old Male Bangladeshi,25,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"31st, Mar 2020",-,true
+967,47 Year Old Male Bangladeshi,47,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+968,2 Year Old Male Brazilian,2,Male,Brazilian,In hospital,Imported case,Brazil,-,-,-,"1st, Apr 2020",-,true
+969,42 Year Old Male Brazilian,42,Male,Brazilian,In hospital,Imported case,Brazil,-,-,-,"1st, Apr 2020",-,true
+970,67 Year Old Male Singaporean,67,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"1st, Apr 2020",-,true
+971,58 Year Old Female Singaporean,58,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+972,28 Year Old Male Bangladeshi,28,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+973,44 Year Old Male Sri Lankan,44,Male,Sri lankan,In hospital,Local transmission,Sri lanka,-,-,-,"1st, Apr 2020",-,true
+974,30 Year Old Male Bangladeshi,30,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+975,31 Year Old Male Singaporean,31,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+976,42 Year Old Female Indian,42,Female,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+977,28 Year Old Male Bangladeshi,28,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+978,26 Year Old Female Singaporean,26,Female,Singaporean,In hospital,Local transmission,Unclear origin,1,-,"31st, Mar 2020","1st, Apr 2020",-,true
+979,28 Year Old Male Indian,28,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+980,49 Year Old Female Singaporean,49,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+981,80 Year Old Male Singaporean,80,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+982,40 Year Old Male Indian,40,Male,Indian,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+983,102 Year Old Female Singaporean,102,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+984,88 Year Old Female Singaporean,88,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+985,70 Year Old Female Singaporean,70,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+986,88 Year Old Female Singaporean,88,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+987,86 Year Old Female Singaporean,86,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+988,85 Year Old Female Singaporean,85,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+989,52 Year Old Female Singaporean,52,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+990,86 Year Old Female Singaporean,86,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+991,7 Year Old Male Singaporean,7,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+992,34 Year Old Female Singaporean,34,Female,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+993,37 Year Old Male Bangladeshi,37,Male,Bangladeshi,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+994,46 Year Old Male Singaporean,46,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+995,54 Year Old Male Singaporean,54,Male,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"1st, Apr 2020",-,true
+996,21 Year Old Female Singaporean,21,Female,Singaporean,In hospital,Imported case,United kingdom,-,-,-,"1st, Apr 2020",-,true
+997,50 Year Old Male Indian,50,Male,Indian,In hospital,Imported case,India,-,-,-,"1st, Apr 2020",-,true
+998,31 Year Old Female British,31,Female,British,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
+999,21 Year Old Male Singaporean,21,Male,Singaporean,In hospital,Local transmission,Malaysia,-,-,-,"1st, Apr 2020",-,true
+1000,54 Year Old Male Singaporean,54,Male,Singaporean,In hospital,Local transmission,Unclear origin,-,-,-,"1st, Apr 2020",-,true
